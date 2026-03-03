@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react'
+import React, { useMemo, useState } from 'react'
 import type { SchemeResult } from '../types/api'
 
 type Props = {
@@ -33,6 +33,7 @@ function Progress({ value, label }: { value: number; label: string }) {
 
 export default function SchemeCard({ scheme }: Props) {
   const { scheme_name, scores, eligibility_summary } = scheme
+  const [open, setOpen] = useState(false)
   const finalPct = Math.round(clamp01(scores.final) * 100)
 
   const eligibilityLabel = useMemo(() => {
@@ -77,6 +78,63 @@ export default function SchemeCard({ scheme }: Props) {
         <Progress value={scores.S} label="S (Semantic)" />
         <Progress value={scores.F} label="F (Freshness Penalty)" />
       </div>
+
+      <div className="mt-5">
+        <button
+          type="button"
+          onClick={() => setOpen((v) => !v)}
+          className="rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-medium text-gray-800 hover:bg-gray-50"
+        >
+          {open ? 'Hide Eligibility Details' : 'View Eligibility Details'}
+        </button>
+      </div>
+
+      {open && (
+        <div className="mt-4 overflow-hidden rounded-lg border border-gray-200">
+          <table className="min-w-full divide-y divide-gray-200">
+            <thead className="bg-gray-50">
+              <tr>
+                <th className="px-4 py-2 text-left text-xs font-semibold uppercase tracking-wide text-gray-600">
+                  Field
+                </th>
+                <th className="px-4 py-2 text-left text-xs font-semibold uppercase tracking-wide text-gray-600">
+                  Operator
+                </th>
+                <th className="px-4 py-2 text-left text-xs font-semibold uppercase tracking-wide text-gray-600">
+                  Value
+                </th>
+                <th className="px-4 py-2 text-left text-xs font-semibold uppercase tracking-wide text-gray-600">
+                  Status
+                </th>
+              </tr>
+            </thead>
+            <tbody className="divide-y divide-gray-100 bg-white">
+              {scheme.clauses?.map((c, idx) => {
+                const statusClass =
+                  c.status === 'matched'
+                    ? 'bg-emerald-50 text-emerald-700 ring-1 ring-emerald-200'
+                    : c.status === 'failed'
+                    ? 'bg-rose-50 text-rose-700 ring-1 ring-rose-200'
+                    : 'bg-amber-50 text-amber-700 ring-1 ring-amber-200'
+                return (
+                  <tr key={idx} className="hover:bg-gray-50">
+                    <td className="px-4 py-2 text-sm text-gray-800">{c.field}</td>
+                    <td className="px-4 py-2 text-sm text-gray-800">{c.operator}</td>
+                    <td className="px-4 py-2 text-sm text-gray-800">
+                      {typeof c.value === 'number' ? c.value : String(c.value)}
+                    </td>
+                    <td className="px-4 py-2 text-sm">
+                      <span className={`inline-flex rounded px-2 py-0.5 text-xs ${statusClass}`}>
+                        {c.status}
+                      </span>
+                    </td>
+                  </tr>
+                )
+              })}
+            </tbody>
+          </table>
+        </div>
+      )}
     </div>
   )
 }
