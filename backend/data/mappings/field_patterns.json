@@ -1,0 +1,25 @@
+{
+  "state": [
+    "\\b(native of|resident of|resident in|residing in|belongs to|a native of)\\s+([A-Z][a-zA-Z&\\- ]{2,})\\b",
+    "\\b(in the state of|state of)\\s+([A-Z][a-zA-Z&\\- ]{2,})\\b"
+  ],
+  "age": [
+    "\\b(age between|aged between|age group of|age of)\\s*(\\d{1,3})\\s*(?:-|to)\\s*(\\d{1,3})",
+    "\\b(age of|aged)\\s*(\\d{1,3})\\b"
+  ],
+  "occupation": [
+    "\\b(applicant should be a|applicant should be an|applicant should be|the applicant should be a|the applicant should be an|the applicant should be)\\s+([A-Za-z\\- ]{3,40})\\b",
+    "\\b(beneficiary should be a|beneficiary should be an|beneficiary should be)\\s+([A-Za-z\\- ]{3,40})\\b",
+    "\\b(the (?:applicant|beneficiary) must be a|the (?:applicant|beneficiary) must be an)\\s+([A-Za-z\\- ]{3,40})\\b"
+  ],
+  "land_area": [
+    "\\b(at least|minimum|should have at least)\\s*(\\d+(?:\\.\\d+)?)\\s*(hectares|ha|acre|acres)\\b",
+    "\\b(land area should be at least|land should be at least)\\s*(\\d+(?:\\.\\d+)?)\\s*(hectares|ha|acre)"
+  ],
+  "relationship": [
+    "\\b(spouse|son|daughter|parent|brother|sister|legal heir|legal heir/ dependent|legal heir\\/dependent|close relative|legal heir/dependent)\\b"
+  ],
+  "community": [
+    "\\b(Scheduled Caste|SC|Scheduled Tribe|ST|General|OBC|Other Backward Class|Minority|Brahmin)\\b"
+  ]
+}

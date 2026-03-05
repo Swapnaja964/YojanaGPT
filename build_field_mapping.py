@@ -14,8 +14,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-DEFAULT_INPUT = "schemes_with_rules.parquet"
-DEFAULT_OUTPUT_JSON = "rule_field_to_profile_field.json"
+DEFAULT_INPUT = "backend/data/processed/schemes_with_rules.parquet"
+DEFAULT_OUTPUT_JSON = "backend/data/mappings/rule_field_to_profile_field.json"
 DEFAULT_UNMAPPED_LOG = "unmapped_fields.log"
 
 
@@ -157,5 +157,4 @@ def build_mapping(
 
 if __name__ == "__main__":
     build_mapping()
-
 

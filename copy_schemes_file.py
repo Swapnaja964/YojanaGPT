@@ -2,8 +2,8 @@ import shutil
 import os
 
 # Define file paths
-source_file = 'schemes_cleaned.parquet'
-target_file = 'schemes_with_rules.parquet'
+source_file = 'backend/data/processed/schemes_cleaned.parquet'
+target_file = 'backend/data/processed/schemes_with_rules.parquet'
 
 # Check if source file exists
 if not os.path.exists(source_file):
