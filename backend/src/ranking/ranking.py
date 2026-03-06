@@ -128,13 +128,13 @@ def rank_schemes(
         return []
     
     # Get semantic search results
-    semantic_results = []
+    retrieved_schemes = []
     if semantic_search is not None:
         try:
-            semantic_results = semantic_search(profile, free_text, top_k=min(50, len(schemes_df)))
+            retrieved_schemes = semantic_search(profile, free_text, top_k=min(50, len(schemes_df)))
         except Exception as e:
             logger.error(f"Semantic search failed: {e}")
-            semantic_results = []
+            retrieved_schemes = []
     else:
         logger.error("Semantic search is unavailable (missing dependency).")
     
@@ -142,21 +142,28 @@ def rank_schemes(
     today = datetime.now()
     
     # Process each candidate scheme
-    for item in semantic_results:
+    for item in retrieved_schemes:
         try:
             scheme_id = item.get("scheme_id")
-            S = float(item.get("similarity", 0.0))  # Semantic score from FAISS
-            
-            # Find the scheme in our data
-            scheme_data = schemes_df[schemes_df['scheme_id'] == scheme_id].iloc[0] \
-                if scheme_id in schemes_df['scheme_id'].values else None
-            
-            if scheme_data is None:
-                logger.warning(f"Scheme {scheme_id} not found in schemes data")
+            S = float(item.get("similarity", 0.0))
+            scheme_data_dict = item.get("scheme_data") or {}
+
+            # Fallback to dataframe if scheme_data missing
+            scheme_row = None
+            if scheme_data_dict:
+                scheme_row = pd.Series(scheme_data_dict)
+            else:
+                try:
+                    if scheme_id in schemes_df.get('scheme_id', []).values:
+                        scheme_row = schemes_df[schemes_df['scheme_id'] == scheme_id].iloc[0]
+                except Exception:
+                    scheme_row = None
+            if scheme_row is None:
+                logger.warning(f"Scheme {scheme_id} not found or missing data")
                 continue
             
             # Evaluate rules to get R score
-            eligibility_structured = scheme_data.get('eligibility_structured', {})
+            eligibility_structured = scheme_row.get('eligibility_structured', {})
             try:
                 # Parse JSON string if needed
                 if isinstance(eligibility_structured, str):
@@ -173,25 +180,25 @@ def rank_schemes(
                 rule_result = {"score": 0.0, "breakdown": {"error": str(e)}}
 
             # Compute freshness penalty
-            last_updated = scheme_data.get('last_updated')
+            last_updated = scheme_row.get('last_updated')
             F = compute_freshness_penalty(last_updated, today)
 
-            # Calculate final score (clamped to [0, 1])
+            # Calculate final score (clamped to [0, 1]) using existing weighted formula
             final_score = max(0.0, min(1.0, w_r * R + w_s * S - w_f * F))
             percent_match = round(final_score * 100, 1)
 
             # Prepare result entry
             result = {
                 'scheme_id': scheme_id,
-                'scheme_name': scheme_data.get('scheme_name', 'N/A'),
+                'scheme_name': scheme_row.get('scheme_name', 'N/A'),
                 'R': round(R, 4),
                 'S': round(S, 4),
                 'F': round(F, 4),
                 'final_score': round(final_score, 4),
                 'percent_match': percent_match,
                 'rule_breakdown': rule_result.get('breakdown', {}),
-                'source_url': scheme_data.get('source_url', ''),
-                'description': scheme_data.get('description_raw', '')[:200] + '...',
+                'source_url': scheme_row.get('source_url', ''),
+                'description': scheme_row.get('description_raw', '')[:200] + '...',
                 'eligibility_structured': eligibility_structured
             }
             
@@ -203,6 +210,11 @@ def rank_schemes(
     
     # Sort by final score (descending)
     results.sort(key=lambda x: x['final_score'], reverse=True)
+    
+    # Debug print top 5 schemes
+    print("\nTop 5 ranked schemes (name, Final, R, S, F):")
+    for s in results[:5]:
+        print(f"{s['scheme_name']} | Final={s['final_score']:.4f} | R={s['R']:.4f} | S={s['S']:.4f} | F={s['F']:.4f}")
     
     # Return top_k results
     return results[:top_k]

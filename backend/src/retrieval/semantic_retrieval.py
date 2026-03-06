@@ -3,6 +3,7 @@ import faiss
 from sentence_transformers import SentenceTransformer
 from typing import List, Dict, Any
 from pathlib import Path
+import pandas as pd
 from backend.src.profile.user_profile_model import UserProfile
 
 # Global model instance for reuse
@@ -12,11 +13,39 @@ _scheme_ids = None
 _index_path_override = None
 _ids_path_override = None
 
+def build_user_query(profile: UserProfile, description: str) -> str:
+    state = getattr(profile, "state", None)
+    district = getattr(profile, "district", None)
+    age = getattr(profile, "age", None)
+    occupation = getattr(profile, "occupation", None)
+    income = getattr(profile, "income_annual", None)
+    category = getattr(profile, "category", None)
+    farmer = getattr(profile, "farmer", None)
+    business_type = getattr(profile, "business_type", None)
+    def _s(v):
+        return "" if v is None else str(v)
+    parts = [
+        "User Profile:",
+        f"State: {_s(state)}",
+        f"District: {_s(district)}",
+        f"Age: {_s(age)}",
+        f"Occupation: {_s(occupation)}",
+        f"Income: {_s(income)}",
+        f"Category: {_s(category)}",
+        f"Farmer: {_s(farmer)}",
+        f"Business Type: {_s(business_type)}",
+        "",
+        "User Request:",
+        _s(description),
+    ]
+    return "\n".join(parts)
+
 def _get_model():
     """Lazy load the sentence transformer model."""
     global _model
     if _model is None:
-        _model = SentenceTransformer("sentence-transformers/paraphrase-mpnet-base-v2")
+        _model = SentenceTransformer("BAAI/bge-large-en-v1.5")
+        print("Embedding model successfully switched to BGE-large.")
     return _model
 
 def _get_index():
@@ -88,6 +117,23 @@ def embed_user_doc(user_doc: str) -> np.ndarray:
     )
     return embedding.reshape(1, -1)  # Ensure 2D array
 
+def expand_query(description: str) -> str:
+    """
+    Expand user description with generic scheme-related terms 
+    to improve semantic retrieval.
+    """
+    if not description:
+        return ""
+    expansion_terms = [
+        "government scheme",
+        "government subsidy",
+        "financial assistance",
+        "benefit program",
+        "support scheme",
+    ]
+    expanded = description + "\n" + "\n".join(expansion_terms)
+    return expanded
+
 def semantic_search(profile: UserProfile, free_text: str = "", top_k: int = 50) -> List[Dict[str, Any]]:
     """
     Find top-k most similar schemes for the given user profile and query.
@@ -100,9 +146,13 @@ def semantic_search(profile: UserProfile, free_text: str = "", top_k: int = 50) 
     Returns:
         List of dicts with scheme_id and similarity score, sorted by score (descending)
     """
-    # Build and embed user document
-    user_doc = build_user_doc(profile, free_text)
-    query_embedding = embed_user_doc(user_doc)
+    # Build and embed user query
+    expanded_text = expand_query(free_text)
+    user_query = build_user_query(profile, expanded_text)
+    print("\n===== EXPANDED USER QUERY =====")
+    print(user_query)
+    print("================================\n")
+    query_embedding = embed_user_doc(user_query)
     
     # Get index and search
     index, scheme_ids = _get_index()
@@ -110,16 +160,43 @@ def semantic_search(profile: UserProfile, free_text: str = "", top_k: int = 50) 
     # Search the index
     distances, indices = index.search(query_embedding, k=min(top_k, index.ntotal))
     
-    # Convert to list of dicts
-    results = []
+    # Load schemes data
+    df = pd.read_parquet("backend/data/processed/schemes_with_rules.parquet")
+    id_to_row = None
+    if "scheme_id" in df.columns:
+        try:
+            id_to_row = df.set_index("scheme_id")
+        except Exception:
+            id_to_row = None
+    
+    retrieved_schemes = []
     for dist, idx in zip(distances[0], indices[0]):
         if idx >= 0:  # Valid index
-            results.append({
-                "scheme_id": str(scheme_ids[idx]),
-                "similarity": float(dist)  # Convert numpy types to native Python types
+            sid = str(scheme_ids[idx])
+            scheme_name = "N/A"
+            scheme_row_dict: Dict[str, Any] = {}
+            try:
+                if id_to_row is not None and sid in id_to_row.index:
+                    row = id_to_row.loc[sid]
+                    scheme_name = str(row.get("scheme_name", "N/A"))
+                    scheme_row_dict = row.to_dict()
+                else:
+                    match = df[df.get("scheme_id") == sid] if "scheme_id" in df.columns else None
+                    if match is not None and not match.empty:
+                        row = match.iloc[0]
+                        scheme_name = str(row.get("scheme_name", "N/A"))
+                        scheme_row_dict = row.to_dict()
+            except Exception:
+                pass
+            print(f"{scheme_name} - {float(dist):.4f}")
+            retrieved_schemes.append({
+                "scheme_id": sid,
+                "scheme_name": scheme_name,
+                "similarity": float(dist),
+                "scheme_data": scheme_row_dict
             })
     
-    return results
+    return retrieved_schemes
 
 # Example usage
 if __name__ == "__main__":
