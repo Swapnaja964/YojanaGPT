@@ -5,6 +5,9 @@ from typing import List, Dict, Any
 from pathlib import Path
 import pandas as pd
 from backend.src.profile.user_profile_model import UserProfile
+from backend.src.retrieval.query_builder import build_search_query
+from backend.src.parser.query_parser import parse_user_query
+from backend.src.rules.eligibility_engine import EligibilityEngine
 
 # Global model instance for reuse
 _model = None
@@ -158,7 +161,25 @@ def semantic_search(profile: UserProfile, free_text: str = "", top_k: int = 50) 
     index, scheme_ids = _get_index()
     
     # Search the index
-    distances, indices = index.search(query_embedding, k=min(top_k, index.ntotal))
+    distances, indices = index.search(query_embedding, k=min(50, index.ntotal))
+    
+    # Initialize eligibility engine
+    eligibility_engine = EligibilityEngine("backend/data/processed/schemes_with_rules.parquet")
+    
+    # Collect retrieved scheme IDs
+    retrieved_ids = [str(scheme_ids[i]) for i in indices[0] if i >= 0]
+    
+    # Apply eligibility filtering
+    try:
+        eligible_schemes = eligibility_engine.filter_schemes(retrieved_ids, profile.model_dump())
+        print("\nEligible Schemes After Rule Filtering:\n")
+        for s in eligible_schemes[:5]:
+            try:
+                print(s["scheme_name"])
+            except Exception:
+                pass
+    except Exception:
+        pass
     
     # Load schemes data
     df = pd.read_parquet("backend/data/processed/schemes_with_rules.parquet")
@@ -200,18 +221,19 @@ def semantic_search(profile: UserProfile, free_text: str = "", top_k: int = 50) 
 
 # Example usage
 if __name__ == "__main__":
-    # Example profile
-    profile = UserProfile(
-        state="Maharashtra",
-        district="Pune",
-        age=35,
-        category="OBC",
-        income_annual=500000,
-        occupation="Farmer",
-        farmer=True,
-        business_type="Agriculture"
-    )
-    
-    results = semantic_search(profile, "Looking for farmer welfare schemes", top_k=5)
+    # Build search query from natural language input
+    user_query = """
+    I am a 35 year old OBC farmer from Pune earning 5 lakh annually.
+    What government subsidy schemes apply to me?
+    """
+    profile_dict = parse_user_query(user_query)
+    search_query = build_search_query(profile_dict)
+    print("\n===== FINAL SEARCH QUERY =====")
+    print(search_query)
+    print("==============================\n")
+
+    # Convert parsed profile dict to UserProfile model and run search
+    profile = UserProfile(**profile_dict)
+    results = semantic_search(profile, search_query, top_k=5)
     for result in results:
         print(f"Scheme ID: {result['scheme_id']}, Similarity: {result['similarity']:.4f}")
