@@ -1,0 +1,5197 @@
+Cluster 789 → % Disability
+100% disability
+80% disability
+
+Cluster 479 → Th
+10th
+12th
+12th standard
+
+Cluster 692 → Erss
+181
+erss 112
+
+Cluster 10 → Mbbs
+aabcs
+bse
+ebc
+llb
+mbbs
+t.b.
+ulb
+
+Cluster 8 → Nekar Samman
+aahaar
+aamar dukan
+alankar
+nekar samman
+samman
+
+Cluster 94 → Agniveer
+aavin parlour
+agniveer
+lepers
+topper
+
+Cluster 21 → Deserted Women
+abandoned
+abandoned woman
+abandoned women
+deserted
+deserted woman
+deserted women
+
+Cluster 846 → Abdul Kalam
+abdul kalam
+ashok vatika
+kalakar
+kasturba gandhi
+
+Cluster 243 → Bhamashah
+abhinandan
+abhiyan
+bhagwan budhdh
+bhagyalakshmi
+bhamashah
+bhoj
+
+Cluster 352 → Aborad
+aborad
+abrod
+
+Cluster 421 → Miscarriage
+abortion
+miscarriage
+
+Cluster 358 → Overseas
+abroad
+foreign
+foreign trade
+overseas
+
+Cluster 784 → Academic
+academia
+academic
+academicians
+
+Cluster 569 → Institution
+academic institutions
+educational institution
+institution
+institutional
+institutions
+
+Cluster 407 → Training Institute
+academy
+institute
+ivri institute
+mentor institute
+training centre
+training institute
+
+Cluster 360 → Acceleration Program
+acceleration program
+accelerator
+
+Cluster 6 → Court
+access to justice
+affordable justice
+court
+court cases
+food courts
+
+Cluster 345 → Accidental Insurance
+accident
+accident insurance
+accidental case
+accidental death
+accidental injuries
+accidental insurance
+
+Cluster 874 → Accidental Assistance
+accidental assistance
+accidental benefit
+accidental support
+
+Cluster 837 → Accommodation
+accommodation
+accommodation facility
+accomodation
+free accommodation
+free facility of accommodation
+student accommodation
+
+Cluster 654 → Achievement
+achievement
+lifetime achievement
+
+Cluster 531 → Acid Victim
+acid attack
+acid victim
+
+Cluster 628 → Pension
+additional pension
+bauna pension
+family pension
+monthly pension
+pension
+pension benefit
+pension fund
+pension scheme
+retirement pension
+saving cum pension
+special ability pension
+special pension
+
+Cluster 765 → Jansuraksha
+adhikarita
+dr. panjabrao deshmukh
+ds kothari
+janaushadhi
+jansuraksha
+
+Cluster 413 → Adi Dravidar
+adi dravidar
+adivasi
+
+Cluster 80 → Education Support
+admission assistance
+education assistance
+education support
+educational assistance
+educational support
+higher education support
+
+Cluster 150 → Admission Fees
+admission fee
+admission fees
+course fees
+examination fee
+examination fees
+fees
+performance fee
+
+Cluster 538 → Youth
+adolescent
+adolescent girls
+juvenile
+young
+youngsters
+youth
+youths
+
+Cluster 370 → Child Protection
+adoption
+child protection
+child rights
+
+Cluster 491 → Training
+advanced training
+sports training
+training
+training programme
+training programs
+trainings
+trainning
+
+Cluster 24 → Adventure
+adventure
+recreation
+survivor
+
+Cluster 799 → Advocacy
+advocacy
+advocate
+
+Cluster 573 → Credit
+affordable credit
+credit
+credit line
+credit linked
+credit support
+
+Cluster 34 → Health Coverage
+affordable health insurance
+coverage
+health cover
+health coverage
+health insurance
+medical insurance
+
+Cluster 201 → Housing Scheme
+affordable homes under gitanjali housing scheme
+housing
+housing assistance
+housing for low-income families
+housing scheme
+residential scheme for the needy
+
+Cluster 857 → Afforestation
+afforestation
+promote afforestation
+
+Cluster 532 → Old Age
+aged
+old age
+old age help
+old age home
+
+Cluster 792 → Agency
+agency
+operating agencies
+
+Cluster 26 → Agriculture
+agricultural
+agricultural activities
+agricultural education
+agricultural inputs
+agricultural marketing
+agricultural science
+agriculture
+agriculture and infrastructure
+agriculture department
+agriculture land holder
+agriculture machineries
+agriculture management system
+agriculture technology
+agriculture universities
+crops
+dryland agriculture
+integrated agriculture
+sustainable agriculture
+
+Cluster 184 → Machinery
+agricultural machinery
+farm machinery
+machinery
+machinery and technology
+machinery bank
+machinery hub
+plant and machinery
+purchase of machinery
+tractor
+
+Cluster 878 → Agricultural Malls
+agricultural malls
+orchard
+
+Cluster 525 → Financial Assistance To Farmers
+agriculture and rural development bank
+crop loan
+financial assistance to farmers
+financial security of farmers
+
+Cluster 125 → Subsidy
+agriculture subsidy
+credit linked subsidy
+energy subsidy
+interest subsidy
+petrol subsidy
+power subsidy
+subsidy
+subsidy assistance
+subsidy on inputs
+subsidy scheme
+
+Cluster 361 → Agro Service Providers
+agro ecology
+agro service providers
+
+Cluster 348 → Iari
+aicte
+aiims
+iari
+ias
+iasri
+
+Cluster 702 → Grant In Aid
+aid
+grant in aid
+grant-in-aid
+
+Cluster 897 → Hiv / Aids
+aids
+aids patients
+hiv
+hiv / aids
+
+Cluster 859 → Aids And Appliances
+aids and appliances
+aids appliances
+
+Cluster 870 → Ailments
+ailments
+major ailments
+
+Cluster 918 → Alcohol
+alcohol
+alcoholism
+
+Cluster 18 → Delhi University
+all india service examinations
+delhi
+delhi university
+study in india
+
+Cluster 907 → Allowance
+allowance
+monthly allowance
+subsistence allowance
+sustenance allowance
+unemployment allowance
+
+Cluster 908 → Ambedkar
+ambedkar
+ambedkar foundation
+dr. b.r. ambedkar
+
+Cluster 460 → Residential Facility
+amenities
+modern facilities
+residential facility
+
+Cluster 303 → Amrutam
+amrutam
+bhimrao ambedkar
+sruthitharangam
+
+Cluster 188 → Anemia
+anemia
+vitamin
+
+Cluster 612 → Anganwadi
+anganwadi
+anganwadi centers
+anganwadi workers
+
+Cluster 581 → Angkor Wat Temple
+angkor wat temple
+hinglaj devi temple
+sita temple
+
+Cluster 86 → Animal
+animal
+dog bite
+veterinary
+wildlife
+
+Cluster 768 → Livestock
+animal farm
+cattle development
+cattle farmers
+cattle farming
+livestock
+livestock agencies
+livestock board
+livestock diseases
+livestock farming
+
+Cluster 455 → Animals Health Cover
+animal health
+animal insurance
+animals health cover
+
+Cluster 383 → Animal Husbandry
+animal husbandary
+animal husbandry
+animal husbandry loan
+husbandry
+
+Cluster 236 → Shelter
+animal shelter
+life long shelter
+shelter
+shelter for cattle
+shelter home
+shelter homes
+
+Cluster 317 → Anishi
+anishi
+anrf
+anuprati
+
+Cluster 193 → Utkarsh Yojana
+anmol yojana
+awas yojana
+bhagyalaxmi yojana
+chatrapati shivaji maharaj krishi yojana
+grihini suvidha yojana
+sahara yojana
+utkarsh yojana
+vanbandhu kalyan yojana
+
+Cluster 319 → Shishya
+anna
+krishi
+meghalaya
+nikah
+shishya
+
+Cluster 474 → Anniversary
+anniversary
+gift
+
+Cluster 522 → Credit Guarantee
+annual guarantee fees
+credit guarantee
+credit guarantee fund trust
+
+Cluster 700 → Antodayay
+antarjatiye
+antodayay
+
+Cluster 168 → Birds Unit
+anti bird net
+bird
+birds unit
+broiler birds
+broiler birds unit
+feeders
+
+Cluster 334 → Mudra
+apeda
+basera
+mudra
+tripura
+
+Cluster 114 → Premium
+apl
+premium
+utility
+
+Cluster 377 → Appliance
+appliance
+appliances
+fabricated appliances
+medical appliance
+
+Cluster 135 → Research
+applied research
+cultural research
+international research
+research
+research and development
+researcher
+researchers
+translational research
+
+Cluster 397 → Honour
+appreciation
+honorarium
+honour
+
+Cluster 91 → Apprentice Trainee
+apprentice
+apprentice trainee
+apprenticeship
+apprenticeship training
+trained professionals
+trainee
+trainees
+
+Cluster 297 → Roads
+approach road construction
+internal roads
+road
+roads
+
+Cluster 128 → Fish Farming
+aquaculture
+fish
+fish farmer
+fish farmers
+fish farming
+fish production
+fish seed
+
+Cluster 99 → Water Tank
+aquarium
+community base water tank
+tank excavation
+water tank
+
+Cluster 156 → Computerization
+architecture
+computerization
+implementation
+software
+
+Cluster 565 → Area Expansion
+area expansion
+irrigated area
+
+Cluster 278 → Bebe Nanki
+arecanut
+bebe nanki
+
+Cluster 826 → Armed Forces
+armed forces
+military
+
+Cluster 578 → Arogya Kosh
+arogya
+arogya kosh
+
+Cluster 335 → Kiran
+arogya lakshmi
+jaintia
+kiran
+lakshmir bhandar
+rajbhasha
+
+Cluster 509 → Aromatic Plants
+aromatic plants
+coriander
+
+Cluster 42 → Artists
+art
+art and culture
+artist
+artists
+arts
+painter
+painting
+young artists
+
+Cluster 666 → Artificial Equipment
+artificial equipment
+manually operated equipment
+mechanical
+non-motorized
+
+Cluster 797 → Reproductive Technology
+artificial insemination
+fertility treatment
+reproductive technology
+
+Cluster 521 → Artificial Limbs
+artificial limb
+artificial limbs
+
+Cluster 134 → Dental
+artificial tooth
+dental
+dental care
+denture
+dentures
+jaw implants
+teeth
+
+Cluster 177 → Artisans
+artisan
+artisans
+local artisans
+senior artisans and weavers
+
+Cluster 145 → Uttar Pradesh
+arunachal pradesh
+chhattisgarh
+himachal pradesh
+ladakh
+uttar pradesh
+uttarakhand
+
+Cluster 30 → Nyaya Sakhi
+arundhati
+mukhya mantri
+natyam
+nyaya sakhi
+ujjwala
+
+Cluster 649 → Asce
+asce
+asme
+
+Cluster 459 → Asean
+asean
+laon
+singapore
+
+Cluster 14 → Namo
+asha
+kailash
+namo
+
+Cluster 687 → Ashram School
+ashram
+ashram school
+
+Cluster 305 → Assam
+assam
+assam legislative assembly
+assam rifles
+
+Cluster 0 → Assistance
+assistance
+helper
+integrated helplines
+personal assistance
+technical assistance
+
+Cluster 62 → House Construction
+assistance for construction
+building
+construction
+construction of building
+construction of house
+free house construction
+funding for construction
+house construction
+
+Cluster 471 → Fund
+assistance fund
+fund
+funding
+provident fund
+relief fund
+
+Cluster 48 → Small Enterprise
+assisted enterprises
+enterprise
+medium enterprise
+small business
+small enterprise
+small enterprises
+
+Cluster 301 → Braille Watches
+assistive devices
+braille watches
+
+Cluster 694 → Industrial Association
+associations
+industrial association
+
+Cluster 333 → Cardamom
+astha card
+cardamom
+
+Cluster 915 → Atal Sneh
+atal
+atal sneh
+
+Cluster 304 → Financial Aid
+athlete financial aid
+financial aid
+student finance
+
+Cluster 36 → Sports
+athletes
+games
+participation in sports
+promotion of sports
+sport
+sport games
+sports
+sports scheme
+
+Cluster 442 → Iti
+ati
+beti
+edi
+iti
+
+Cluster 312 → Swachh Bharat
+atmanirbhar bharat
+make in india
+swachh bharat
+
+Cluster 55 → Atrocity
+atrocity
+harrassment
+
+Cluster 766 → Educational Facilities
+attendance
+educational facilities
+residential school
+
+Cluster 706 → Visually
+audio-visual
+visually
+
+Cluster 519 → Energy Audit
+audit
+energy audit
+
+Cluster 260 → Writer
+author
+writer
+writers
+
+Cluster 123 → Autism
+autism
+cerebral palsy
+
+Cluster 27 → Rpf
+auto component
+rpf
+
+Cluster 608 → E Rickshaw
+auto rickshaw
+e-rickshaw
+e-rickshaw subsidy
+
+Cluster 409 → Vehicle
+automobile
+automotive
+car
+commercial vehicle
+goods vehicles
+vehicle
+vehicles
+
+Cluster 746 → Award
+award
+awards
+cash award
+medal
+sports award
+
+Cluster 76 → Knowledge
+awareness
+knowledge
+lore
+
+Cluster 210 → Iba
+awas
+iba
+kalia
+
+Cluster 393 → Ayush Products
+ayush products
+turmeric
+
+Cluster 220 → Degree
+bachelor of science
+bsc
+degree
+master degree
+msc
+professional degree
+
+Cluster 415 → Other Backward Class
+backward class
+backward classe
+backward classes
+extremely backward class
+extremely backward classes
+most backward
+most backward class
+most backward classes
+other backward class
+other backward classes
+other backward classes (obc)
+special backward class
+special backward classes
+
+Cluster 420 → Poultry
+backyard poultry
+chicken
+poultry
+poultry development
+poultry farming
+rural poultry
+
+Cluster 824 → Baker
+baker
+koch
+
+Cluster 85 → Puraskar
+bal puraskar
+pucca
+pucca ghar
+purashkar
+puraskar
+
+Cluster 245 → Bal Sakha
+bal sakha
+solar charkha
+
+Cluster 417 → Ration
+balanced ration
+ration
+take-home ration
+total mixed ration
+
+Cluster 816 → Bamboo Marketing
+bamboo marketing
+bamboo plantation
+
+Cluster 240 → Fruit Development
+banana development
+covering fruits
+dragon fruit development
+fruit development
+fruit preservation
+fruit processing
+fruit production
+
+Cluster 239 → Banking
+bank
+bank account holders
+bankable
+banking
+banking and money
+
+Cluster 588 → Barber
+barber
+barbershop
+
+Cluster 38 → Baristha Bunakar
+baristha bunakar
+baristha nagarika
+haritha haram
+teelu rauteli
+
+Cluster 223 → Science
+basic science
+life science
+natural science
+science
+science education
+web of science
+
+Cluster 228 → Basic Services
+basic services
+cloud service
+free services
+
+Cluster 812 → Electric Vehicles
+battery electric vehicle
+electric vehicles
+
+Cluster 549 → Bedridden
+bed
+bedridden
+
+Cluster 564 → Bee Keeping
+bee keeping
+beekeeper
+
+Cluster 111 → Trafficking
+beggars
+trafficking
+
+Cluster 763 → Below Poverty Line
+below poverty level
+below poverty line
+below poverty line - bpl
+below the poverty line
+
+Cluster 309 → Medical Benefits
+benefits
+financial benefit
+financial benefits
+medical benefit
+medical benefits
+
+Cluster 54 → Bentham Science
+bentham science
+science project
+
+Cluster 867 → Berojgari Bhatta
+berojgari bhatta
+berozgari bhatta
+
+Cluster 740 → Nirman
+bhawan nirman
+nirman
+nirman shramik
+
+Cluster 182 → Cycle
+bi-cycle
+cycle
+free cycle
+tri-cycle
+try cycle
+
+Cluster 805 → Bicycles
+bicycle
+bicycles
+bicycles distribution
+free bicycle
+
+Cluster 124 → Minor
+big
+general
+minor
+
+Cluster 503 → Biis
+biis
+biju
+bima
+biponi
+birac
+
+Cluster 601 → Bill
+bill
+bill reduction
+
+Cluster 192 → Bio Agents
+bio agent
+bio-agents
+bio-technology
+biotechnology
+
+Cluster 95 → Bio Compost Sale
+bio compost sale
+bio-floc
+
+Cluster 843 → Bio Pesticides
+bio pesticide
+bio-pesticide
+bio-pesticides
+pesticides
+
+Cluster 568 → Incubator
+bio-incubator
+incubation
+incubator
+incubators
+
+Cluster 489 → Newborn
+birth
+infant
+infants
+new born
+newborn
+newborn child
+
+Cluster 136 → Ginger
+black pepper
+cinnamon
+coffee
+ginger
+groundnut
+
+Cluster 330 → Carpenters
+blacksmiths
+carpenter
+carpenters
+craftsman
+craftsmen
+
+Cluster 676 → Visually Impaired
+blind
+blindness
+visual impairment
+visually challenged person
+visually impaired
+
+Cluster 500 → Block Demonstration
+block demonstration
+demonstration
+
+Cluster 60 → Pig Farm
+boar
+pig
+pig farm
+pig farming
+pig germplasm
+piggery
+piggery farming
+piggery unit
+
+Cluster 102 → Entrance Examinations
+board exams
+entrance exam
+entrance examination
+entrance examinations
+exam
+exam preparation
+examination
+government exams
+pre examination training
+preliminary examination
+
+Cluster 207 → Pilot
+boarding
+pilot
+pilot training
+
+Cluster 544 → Boat
+boat
+boat-net
+fishing boats
+
+Cluster 170 → Bond
+bond
+memento
+penury
+
+Cluster 43 → Sitare
+boneej
+intercaste
+ofoe
+sitare
+
+Cluster 259 → Books
+book
+books
+literature
+technical book writing
+text books
+
+Cluster 313 → Grants
+book grant
+degree grant
+educational grant
+financial grants
+grant
+grants
+grants for higher education
+research grant
+travel grant
+
+Cluster 152 → Booklets
+booklets
+leaflets
+
+Cluster 247 → Stationery
+books and stationery
+free stationery
+purchase of stationery
+stationery
+
+Cluster 101 → Heath
+borewell
+heath
+
+Cluster 140 → Cm Cab
+bose
+cm-cab
+
+Cluster 375 → Bpl
+bpl
+bpl category
+bpl families
+non bpl
+
+Cluster 5 → Girl Education
+bpl girl student
+girl education
+girl student
+girls education
+girls' education
+women student
+
+Cluster 566 → Bpsc
+bpsc
+hpsc
+iisc
+
+Cluster 66 → Brahmin
+brackish
+brahmin
+brahmin community
+
+Cluster 218 → Martyrs
+bravery
+martyrs
+
+Cluster 146 → Breadwinner
+bread
+bread winner
+breadwinner
+death of breadwinner
+
+Cluster 79 → Meal
+breakfast
+food
+hot cooked meals
+hot meal
+meal
+meals
+mid day meal
+nutritious food
+
+Cluster 302 → Breeding
+breed
+breeding
+low genetic animal
+
+Cluster 189 → Parent Farm
+breed multiplication farms
+brooder cum mother unit
+parent farm
+
+Cluster 444 → Bride
+bride
+bridegroom
+groom
+wedding
+
+Cluster 211 → Students
+bright student
+parity among students
+school students
+student
+student education
+student scheme
+student visits
+students
+studentship
+
+Cluster 226 → Network
+broadband
+internet
+net
+network
+networking products
+
+Cluster 757 → Buddhist
+buddhist
+nav buddha
+
+Cluster 261 → Sportsperson
+budding young sportsperson
+sports person
+sportsperson
+sportspersons
+
+Cluster 617 → Buffaloes
+buffalo
+buffaloes
+
+Cluster 392 → Worker
+building worker
+construction worker
+constrution worker
+deceased worker
+industrial worker
+iron worker
+laborer
+labour worker
+sex worker
+stone worker
+wood worker
+worker
+
+Cluster 37 → Workers
+building workers
+construction workers
+health workers
+labor workers
+organized worker
+organized workers
+unskilled workers
+workers
+
+Cluster 93 → Loan
+buisness loan
+business loan
+collateral-free loans
+consumer loan
+handloom loans
+home loan
+interest free loan
+jewel loan
+loan
+loan assistance
+loan scheme
+loans
+professional loan
+soft loan
+start up loan
+surety loan
+working capital loan
+
+Cluster 31 → Funeral Rites
+burial ground
+cremation
+funeral rites
+last rites
+
+Cluster 669 → Bus
+bus
+bus operators
+bus travel
+dtc buses
+free bus traveling
+transport corporation bus
+
+Cluster 231 → Bus Concession
+bus concession
+concession
+concessional bus fare
+concessional credit
+
+Cluster 401 → Travel Pass
+bus pass
+pass
+travel pass
+
+Cluster 710 → Business
+business
+business activities
+business operations
+business premise
+business venture
+enterprises
+
+Cluster 558 → Product Development
+business development
+development
+product development
+product development centre
+
+Cluster 49 → Opportunities
+business opportunity
+employment opportunities
+employment opportunity
+equal opportunities
+job opportunities
+opportunities
+opportunity
+opportunity cost
+
+Cluster 807 → Start Up
+business start-up
+start up
+start-up
+start-ups
+
+Cluster 673 → Cadet
+cadet
+cadets
+
+Cluster 928 → Natural Calamity
+calamity
+natural calamities
+natural calamity
+
+Cluster 825 → Calipers And Crutches
+calipers and crutches
+
+Cluster 529 → Mule Cart
+camel cart
+mule cart
+
+Cluster 435 → Camp
+camp
+campaign
+
+Cluster 449 → University
+campus
+central universities
+college
+colleges
+university
+
+Cluster 380 → Cancer Treatment
+cancer
+cancer patient
+cancer treatment
+chemotherapy
+
+Cluster 592 → Capacity Building
+capacity building
+capacity utilisation
+
+Cluster 640 → Capf Personnel
+capf
+capf personnel
+
+Cluster 365 → Capital
+capital
+capital goods
+capital support
+equity capital
+
+Cluster 2 → Capital Investment Subsidy
+capital investment
+capital investment subsidy
+capital subsidy
+fixed capital investment
+investment
+state capital investment subsidy
+
+Cluster 73 → Special Care
+care
+foster care
+respite and residential care
+special care
+
+Cluster 688 → Jobs
+career
+job
+jobs
+
+Cluster 406 → Cash
+cash
+gold
+
+Cluster 162 → Financial Assistance
+cash assistance
+financal assistance
+financial assistance
+financial assistane
+financial help
+financial support
+income support
+linked financial assistance
+money assistance
+monthly assistance
+
+Cluster 32 → Incentives
+cash incentive
+fiscal incentives
+incentive
+incentives
+non-fiscal incentives
+production linked incentive scheme
+toolkit incentive
+
+Cluster 913 → Prizes
+cash prize
+prize
+prize money
+prizes
+prizes awarded
+
+Cluster 637 → Cashewnut
+cashew unit
+cashewand
+cashewnut
+
+Cluster 885 → Cashless Medical Treatment
+cashless
+cashless health insurance
+cashless medical treatment
+cashless service
+cashless treatment
+
+Cluster 107 → Catamarans
+catamarans
+poly sheets
+
+Cluster 204 → Disaster
+catastrophe
+crisis
+disaster
+earthquake
+emergency
+
+Cluster 272 → Cattle
+cattle
+cattle feed storage
+cattle herders
+cattle shed
+cattle welfare
+cattle welfare scheme
+cattleshed
+cow
+cow protection
+cows
+forconstruction of cattle
+stray cattle
+
+Cluster 1 → Cattle And Buffalo Breeding
+cattle and buffalo breeding
+female calf breeding
+heifers of cattle and buffaloes
+indigenous cattle
+indigenous cow
+pregnant cows or buffaloes
+pregnant desi indigenous cows
+
+Cluster 556 → Cept
+ceed
+cefipra
+cept
+
+Cluster 327 → Centenarian
+centenarian
+zoroastrians
+
+Cluster 554 → Centers
+centers
+one stop centres
+
+Cluster 405 → Government
+central government
+government
+state government
+
+Cluster 767 → Police Personnel
+central police force
+government officers
+officer
+police
+police personnel
+
+Cluster 205 → Certification
+certificate
+certification
+quality certification
+zed certification
+
+Cluster 167 → Seed Supply
+certified seeds
+feed for seed
+foundation seeds
+production of seeds
+quality seeds
+seed
+seed capital
+seed distribution
+seed fund
+seed garden
+seed hub
+seed multiplication
+seed nursery
+seed production
+seed supply
+seed support
+seed testing
+seeds
+state seed development corporation
+vegetable seed
+
+Cluster 337 → Citus
+cgtmse
+cife
+citus
+ncess
+
+Cluster 906 → Chaff Cutter
+chaff cutter
+
+Cluster 747 → Wheelchair
+chair
+wheelchair
+
+Cluster 818 → Club
+championship
+club
+
+Cluster 271 → Charity
+charitable institutions
+charity
+donation
+volunteer
+
+Cluster 47 → Spinner
+charmakar
+power tiller
+spinner
+
+Cluster 384 → Charpak
+charpak
+rkvy
+
+Cluster 586 → Chartered Accountancy
+chartered accountancy
+chartered accountant
+
+Cluster 806 → Check Up
+check-up
+checkup
+
+Cluster 614 → Organic Farming
+chemical-free farming
+organic crop
+organic farming
+pesticide-free agriculture
+
+Cluster 172 → Chota Khata
+chhatrawas
+chota khata
+karigara sahayata
+vrihad sahayata
+
+Cluster 241 → Girls
+chicks
+for girls only
+girl
+girls
+
+Cluster 515 → Chief Minister
+chief minister
+jayantis
+
+Cluster 108 → Daughter
+child
+daughter
+daughters
+girl child
+single girl child
+
+Cluster 129 → Child Care
+child care
+child health
+child healthcare
+children care
+daycare
+
+Cluster 217 → Delivery
+child delivery
+delivery
+delivery assistance
+doorstep delivery
+normal delivery
+
+Cluster 285 → Child Development Scheme
+child development
+child development scheme
+integrated child development services
+
+Cluster 61 → Kids Education
+child education
+children education
+early education
+education
+educational
+elementary education
+kids education
+pre-school
+school education
+
+Cluster 576 → Empowerment
+child empowerment
+citizen empowerment
+digital empowerment
+economic empowerment
+empowerment
+social empowerment
+student empowerment
+youth empowerment
+
+Cluster 112 → Marriages
+child marriage prevention
+group marriage
+group marriages
+legally married
+marriage
+marriage of sons
+marriages
+mass marriage
+
+Cluster 387 → Malnourished Children
+child nutrition
+malnourished children
+malnutrition
+
+Cluster 298 → Victim
+child victim
+victim
+victim of atrocities
+victims
+
+Cluster 473 → Children
+children
+female children
+worker children
+young children
+
+Cluster 84 → Mentally Disabled Child
+children with disability
+disabled children
+mentally disabled
+mentally disabled child
+mentally underdeveloped
+physically disabled child
+
+Cluster 254 → Chillies
+chillies
+coolie
+trifed
+
+Cluster 402 → Processor
+chipset
+processor
+
+Cluster 83 → Troupes
+choir
+daisy players
+troupes
+
+Cluster 67 → Diseases
+chronic diseases
+common diseases
+disease
+disease-free life
+diseases
+incurable diseases
+life threatening disorders
+rare diseases
+
+Cluster 773 → Non Resident Indian
+citizen of india
+non resident indian
+overseas indian
+
+Cluster 441 → Civil Service
+civil
+civil service
+civil services
+
+Cluster 160 → Civil Supplies
+civil supplies
+procurement
+
+Cluster 817 → Claim Form
+claim form
+
+Cluster 266 → Class V
+class 12
+class v
+class v-viii
+class xi
+class xii
+
+Cluster 722 → Cleanliness
+clean
+cleanliness
+hygiene
+
+Cluster 295 → Office
+clerk
+office
+
+Cluster 684 → Clet
+clet
+clss
+
+Cluster 364 → Drought
+climate resilience
+drought
+
+Cluster 429 → Small Unit
+closed unit
+small unit
+
+Cluster 882 → Free Clothes
+clothes
+free clothes
+
+Cluster 244 → Cooperative Society
+co-operative societies
+co-operative society
+cooperation
+cooperative society
+employees cooperative societies
+
+Cluster 709 → Coaching
+coach
+coaches
+coaching
+coaching assistance
+free coaching
+sports coaching
+
+Cluster 353 → Hearing Aid
+cochlear
+hearing
+hearing aid
+hearing aids
+hearing machine
+
+Cluster 89 → Coconut Grower
+coconut
+coconut development
+coconut fiber
+coconut grower
+coconut harvester
+coconut saplings distribution
+coconut tree climber
+
+Cluster 373 → Coir Industry
+coir
+coir board
+coir industry
+coir production
+
+Cluster 889 → Storage
+cold storage
+storage
+storage facilities
+storage infrastructure
+
+Cluster 523 → Tuition Fees
+college fee
+educational fees
+private tuition
+tuition
+tuition fee
+tuition fee assistance
+tuition fee reimbursement
+tuition fee waiver
+tuition fees
+
+Cluster 191 → Colocasia
+colocasia
+fauquania
+tapioca
+
+Cluster 663 → E Commerce
+commerce
+e-commerce
+ecommerce
+
+Cluster 12 → Recruitment
+commercial hiring
+custom hiring centres
+manpower solution
+recruitment
+
+Cluster 733 → Plantation
+commercial plantation
+plantation
+tea plantation
+tree plantation
+
+Cluster 15 → Marketing
+commercialization
+digital marketing
+digitization of business
+goods and services marketing
+marketing
+marketing and sourcing hub
+
+Cluster 82 → Plant
+common effluent treatment plant
+fountain plant
+ice plant
+plant
+plant supply
+
+Cluster 855 → Communication
+communication
+mass communication
+
+Cluster 90 → Community
+community
+community radio stations
+other equivalent communities
+
+Cluster 81 → Consolidated
+community canning
+consolidated
+new cluster
+
+Cluster 269 → Companies
+companies
+company
+corporate
+domestic companies
+
+Cluster 483 → Wage Compensation
+compensation
+fair compensation
+salary
+wage compensation
+wage loss
+
+Cluster 320 → Competition
+competition
+contest
+cultural competitions
+essay competition
+sports competition
+
+Cluster 689 → Competitive Examinations
+competitive examination
+competitive examinations
+competitive exams
+
+Cluster 917 → Compressed Air Vehicle
+compressed air vehicle
+
+Cluster 20 → Laptop
+computer
+desktop
+laptop
+notebook
+notebooks
+
+Cluster 326 → Concentrate Feeds
+concentrate feeds
+micro nutrient spray
+
+Cluster 736 → Conferences
+conference
+conferences
+
+Cluster 225 → Proposal
+consent
+proposal
+
+Cluster 65 → Environmental Management
+conservation
+ecosystem
+environment
+environment infrastructure
+environmental management
+natural resources management
+pollution
+
+Cluster 501 → Hostel
+construction of hostels
+hostel
+hostel allowance
+hostel facilities
+hostel facility
+hostel grant
+hostellers
+hostels
+youth hostel
+
+Cluster 71 → Counselling
+consultation
+counselling
+pyscho-social counselling
+thematic intervention
+
+Cluster 369 → Consumer
+consumer
+domestic consumers
+
+Cluster 9 → Intermediate
+contemporary subject
+intermediate
+stem
+
+Cluster 820 → Farming
+contract farming
+farm
+farming
+farming assistance
+farming land
+natural farming
+scientific farming
+
+Cluster 424 → Contract Research Work
+contract research work
+joint research
+
+Cluster 212 → Property
+conveyance
+property
+
+Cluster 299 → Fuel
+cooking fuel
+diesel
+fire
+fuel
+petrol
+
+Cluster 847 → Cooking Utensils
+cooking utensils
+
+Cluster 314 → Trademarks
+copyrights
+intellectual property
+trademark
+trademarks
+
+Cluster 122 → Costume
+costume
+helmet
+
+Cluster 159 → Village
+cottage industries
+seed village
+village
+village industries boards
+
+Cluster 570 → Couple
+couple
+couples
+
+Cluster 155 → Son
+course
+fellow
+sire
+son
+
+Cluster 604 → Covid
+covid
+covid-19
+pandemic
+
+Cluster 801 → Livestock Rearing
+cow rearing
+goat rearing
+livestock rearing
+sheep rearing
+
+Cluster 126 → Rpsf
+cpf
+pfrda
+rpsc
+rpsf
+
+Cluster 215 → Crafts
+craft
+crafts
+craftspeople
+craftsperson
+master craftperson
+wood carving
+
+Cluster 216 → Credit Card
+credit card
+identity card
+ration card holders
+
+Cluster 425 → Crime
+crime
+fraud
+lynching
+
+Cluster 911 → Critical Illnesses
+critical diseases
+critical illnesses
+
+Cluster 300 → Crop
+crop
+crop assistance
+crop display
+crop husbandary
+crop loss
+crop storage
+plantation crop
+ramie crop
+
+Cluster 553 → Crop Insurance Scheme
+crop insurance
+crop insurance scheme
+farmers group life insurance scheme
+insurance scheme for farmers
+
+Cluster 175 → Crop Protection
+crop protection
+crop protection chemicals
+crops damage
+plant protection
+plant protection equipment
+
+Cluster 229 → Medical Diagnostics
+ct scan
+medical diagnostics
+quality diagnosis
+
+Cluster 316 → Horticultural
+cultivation
+garden
+horticultural
+horticultural seedlings
+
+Cluster 563 → Cultivator
+cultivator
+cultivators
+
+Cluster 827 → Cultural
+cultural
+cultural function
+cultural organization
+cultural production
+culture
+
+Cluster 151 → Law
+cyber law
+law
+legal
+license
+
+Cluster 646 → Cylinder
+cylinder
+gas cylinder
+
+Cluster 841 → D
+d
+r
+
+Cluster 41 → Dairy
+dairy
+dairy development
+dairy farmer
+dairy farming
+dairy unit
+dairying
+milk
+milk production
+mini dairy unit
+
+Cluster 92 → Telangana Dalit Bandhu
+dalit bandhu scheme
+telangana dalit bandhu
+telangana ku haritha haram
+
+Cluster 658 → Music
+dance
+music
+musical
+
+Cluster 253 → Dangar
+dangar
+drdo
+
+Cluster 115 → Statistics
+data analytics
+mathematics
+statistics
+
+Cluster 635 → Daughter Marriage
+daughter marriage
+girl marriage
+marriage of daughter
+
+Cluster 834 → Scholar
+day scholar
+research scholar
+scholar
+scholars
+
+Cluster 524 → Dayalu
+dayalu
+dayalu-ii
+
+Cluster 505 → Dbt
+dbt
+dbt scheme
+mahadbt
+
+Cluster 374 → Deaf
+deaf
+deaf worker
+mute
+
+Cluster 53 → Death
+death
+death of family head
+deceased
+natural death
+normal death
+suicide
+unnatural death
+
+Cluster 771 → Death Benefit
+death assistance
+death benefit
+death benefits
+death compensation
+
+Cluster 347 → Insurance
+death insurance
+insurance
+insurance coverage
+insurance scheme
+insured person
+life insurance
+
+Cluster 458 → Defence Forces
+defence
+defence applications
+defence forces
+defence forces personnel
+defence technology
+
+Cluster 206 → Msme
+defunct msme
+mse
+msme
+msme policy
+msmes
+msmes and startups
+
+Cluster 154 → Scope
+delegate
+scope
+
+Cluster 717 → Denotified Communities
+denotified
+denotified communities
+denotified tribes
+
+Cluster 439 → Dependent Family
+dependent
+dependent family
+dependent family member
+dependents
+
+Cluster 742 → Deprivation Of Liberty
+deprivation of liberty
+patriotism
+
+Cluster 755 → Deprived
+deprived
+deprived categories
+
+Cluster 499 → Design
+design
+designs
+product design
+
+Cluster 403 → Old Age Pensioners
+destitude pensioners
+old age pension
+old age pensioners
+pensioners
+
+Cluster 632 → Destitute
+destitute
+destitute children
+destitute women
+
+Cluster 371 → Widow
+destitute widow
+poor widow
+widow
+widow marriage
+widow pension
+widow scheme
+widow women
+widower
+widows
+
+Cluster 853 → Devnarayan
+devadasi
+devnarayan
+
+Cluster 448 → Green Houses
+development of green estate
+green houses
+green practices
+green space
+
+Cluster 436 → Dhangar
+dhangar
+jan dhan
+
+Cluster 697 → Diabetes
+diabetes
+diabetic
+
+Cluster 23 → Differently Abled Person
+different abled person
+differently abled person
+differently abled persons
+differently-abled person
+person with differently
+specially abled person
+specially-abled person
+
+Cluster 96 → Differently Abled
+differently abled
+differently abled parents
+differently abled women
+differently-abled
+
+Cluster 615 → Digital
+digital
+digital financial literacy
+
+Cluster 257 → Distant Learning
+digital learning
+distance education
+distant learning
+learning
+
+Cluster 195 → Diploma
+diploma
+diploma course
+under graduate
+under graduation
+
+Cluster 470 → Direct Benefit Transfer
+direct benefit transfer
+remuneration
+
+Cluster 472 → Persons With Disabilities
+disabilities
+disability
+disabled person
+disabled persons
+empowerment of persons with disabilities
+person with disabilities
+person with disability
+persons with disabilities
+persons with disability
+
+Cluster 457 → Person With Disabilty
+disabilitiy
+permanent disablity
+person with disabilty
+persons with disablities
+
+Cluster 408 → Disability Benefits
+disability benefits
+disability pension
+disability relief
+disability relief allowances
+pension disability
+
+Cluster 482 → Disablement
+disable person
+disablement
+permanent disablement
+
+Cluster 390 → Physically Disabled
+disabled
+physically disabled
+war disabled
+
+Cluster 804 → Student With Disability
+disabled student
+student with disability
+students with disabilities
+
+Cluster 580 → Welfare
+disabled welfare
+economic welfare
+family welfare
+girl welfare
+labour welfare
+minority welfare
+social welfare
+student welfare
+welfare
+welfare benefits
+women welfare
+work force welfare
+worker welfare
+
+Cluster 394 → Natural Disaster
+disaster affected woman
+natural disaster
+natural disaster coverage
+
+Cluster 56 → Refugee
+displaced
+emporia
+homeless
+refugee
+
+Cluster 737 → Thesis
+dissertation
+thesis
+thesis grant
+
+Cluster 748 → Engineers
+distinguished engineers
+engineer
+engineer scientists
+engineering
+engineers
+
+Cluster 796 → Distress
+distress
+stressed
+
+Cluster 118 → Sheep Unit
+distribution of sheep units
+livestock unit
+sheep
+sheep breeders
+sheep farming
+sheep supply
+sheep unit
+
+Cluster 368 → District
+district
+north eastern hill
+
+Cluster 121 → Married
+divorced
+divorced woman
+divorcee
+married
+spouse
+wife
+
+Cluster 675 → Divyang
+divyang
+divyang marriage
+divyangjan
+
+Cluster 450 → Dpiit
+dnt
+dpiit
+
+Cluster 142 → Medical
+doctor
+doctors
+engineering and medical
+medical
+medical sciences
+medicine
+
+Cluster 28 → Doctoral
+doctoral
+doctoral degree
+doctorate course
+phd
+post doctoral
+post-doctoral
+postdoctoral
+
+Cluster 880 → Violence
+domestic violence
+mob violence
+violence
+
+Cluster 144 → Dowry
+dowry
+eunuchs
+
+Cluster 778 → Drainage
+drainage
+underground drainage
+
+Cluster 275 → Drama
+drama
+psychological
+
+Cluster 869 → Drinking Water
+drinking water
+water
+water drinkers
+
+Cluster 622 → Drip Sanyantr
+drip sanyantr
+mini sprinkler sanyantr
+
+Cluster 758 → Driving
+driver
+driving
+motor driving
+
+Cluster 873 → Drone Technology
+drone
+drone technology
+
+Cluster 221 → Dropout
+dropout
+retention
+
+Cluster 599 → Drug
+drug
+drug abuse
+narcotic
+
+Cluster 214 → Drug Distribution Counter
+drug distribution counter
+public distribution
+
+Cluster 106 → Sindhu
+dubai
+manipur
+sindhu
+sindhu darshan
+sujanpur
+
+Cluster 381 → Potato
+duck
+paddy
+potato
+
+Cluster 639 → Dwarf
+dwarf
+guardians
+star
+
+Cluster 234 → E Governance
+e-governance
+e-mobility promotion
+subscriptions of e-resources
+
+Cluster 325 → Medhavi
+e-medhabruti
+medhavi
+mediclaim
+
+Cluster 497 → Tablet
+e-tablet
+free tablet
+smart tablets
+tablet
+
+Cluster 514 → Yuva
+e-yuva
+seva
+yuva
+
+Cluster 729 → Economic And Social Security
+economic and social security
+social security
+social security and poverty eradication
+
+Cluster 696 → Improve Economic Conditions
+economic development
+economics
+improve economic conditions
+support economic conditions
+
+Cluster 625 → Economically Backward Class
+economically backward
+economically backward class
+economically backward classes
+economically backward section
+
+Cluster 606 → Economically Weaker Sections
+economically weaker section
+economically weaker sections
+economically-weaker sections
+weaker section
+
+Cluster 616 → Higher Educaction
+educaction
+higher educaction
+higher education
+higher education and
+
+Cluster 4 → Educated
+educated
+eminent
+intellectual
+literacy
+unskilled
+
+Cluster 289 → Unemployed Youth
+educated unemployed youth
+job seeker
+unemployed
+unemployed youth
+unemployment
+
+Cluster 621 → Educational Loan
+education loan
+educational loan
+foreign study loan
+loans to students
+study loan
+
+Cluster 517 → Educational Institutions Operating Crs
+educational institutions operating crs
+ngos operating crs
+
+Cluster 559 → Instrument
+educational instrument
+instrument
+musical instrument
+
+Cluster 507 → Scooter
+electric scooter
+scooter
+scooty
+
+Cluster 811 → Two Wheelers
+electric two-wheelers
+four-wheeler
+three wheelers
+two wheeler
+two-wheeler
+two-wheelers
+
+Cluster 202 → Electrician
+electrician
+plumber
+
+Cluster 557 → Electricity
+electricity
+electricity duty
+electricity supply
+electrification
+
+Cluster 480 → Electricity At Household Level
+electricity at household level
+household
+
+Cluster 267 → Electronic Manufacturing
+electronic manufacturing
+electronics
+prototype
+
+Cluster 718 → Posthumously
+emeritus
+posthumously
+
+Cluster 540 → Employable Skills
+employability
+employable skills
+modular employable skills
+
+Cluster 832 → Employment
+employed
+employer
+employment
+employment exchange
+new employment
+
+Cluster 310 → Employee
+employee
+employees
+provisional employee
+
+Cluster 895 → Self Employement
+employement
+self employement
+self-employement
+
+Cluster 679 → Income Generation
+employment generation
+income generation
+income generation opportunities
+
+Cluster 169 → Empolyment
+empolyment
+liquidity constraint
+
+Cluster 712 → Empower
+empower
+empowered
+power
+
+Cluster 819 → Female Empowerment
+empowerment of girls
+female empowerment
+girl empowerment
+woman empowerment
+women empowerment
+
+Cluster 165 → Encouragement
+encourage
+encouragement
+inspire
+motivaction
+motivation
+
+Cluster 190 → Women Collectives
+encourage women
+financial inclusion women
+separated women
+women collectives
+women grievance redressal
+
+Cluster 411 → Endosulfan
+endosulfan
+tagore
+
+Cluster 284 → Energy
+energy
+energy conservation
+energy efficiency
+energy installations
+energy saver
+renewable energy
+
+Cluster 77 → Machine
+engine
+machine
+motor
+sewing machine
+
+Cluster 851 → Engineering Courses
+engineering college and university
+engineering course
+engineering courses
+
+Cluster 904 → Livelihood
+enhanced livelihood
+livelihood
+livelihood generation
+livelihood support
+livelihoods
+
+Cluster 342 → Enterpreneurship
+enterpremeurship
+enterpreneurship
+entreurprneurship
+
+Cluster 900 → Enterpreneurs
+enterpreneur
+enterpreneurs
+enterpris
+
+Cluster 453 → Entrepreneurship
+entrepreneur
+entrepreneurs
+entrepreneurship
+entrepreneurship development
+entrepreneurship skills
+entrepreneurship training
+high growth entrepreneurship
+reduce poverty and promote entrepreneurship
+young entrepreneurs
+youth entrepreneur
+
+Cluster 19 → Quality Compliance
+environment compliance
+environmental compliance
+quality compliance
+standard quality compliance
+
+Cluster 527 → Epf
+epf
+epfo
+
+Cluster 283 → Reimbursement Of Fees
+epf reimbursement
+fee reimbursement
+reimbursement
+reimbursement of fees
+
+Cluster 103 → Equipment
+equipment
+equipment assistance
+equipment distribution
+equipments
+shorting equipment
+
+Cluster 465 → Esm
+esdp
+esi
+esm
+
+Cluster 70 → Event
+event
+festival
+parade
+subvention
+
+Cluster 735 → Ews
+ews
+ews scheme
+
+Cluster 591 → Ex Serviceman
+ex-coast guard
+ex-serviceman
+
+Cluster 871 → Imprisonment
+ex-convict
+imprisonment
+jail
+prisoner
+
+Cluster 294 → Ex Gratia
+ex-gratia
+ex-gratia payment
+
+Cluster 428 → Widows Of Ex Servicemen
+ex-servicemen
+non-pensioner ex-servicemen
+wards of ex-servicemen
+widow of ex-servicemen
+widows of ex-servicemen
+
+Cluster 238 → Readers Allowance
+exemption
+readers allowance
+transport allowance
+
+Cluster 543 → Exhibition
+exhibition
+exhibitions
+international exhibition
+national exhibition
+
+Cluster 35 → Expenses
+expenditure
+expenses
+medical expense
+medical expenses
+petty personal expenses
+
+Cluster 487 → Export
+export
+export infrastructure
+export promotion
+export values
+exporter
+exports
+
+Cluster 511 → Repair Extension
+extension
+repair extension
+
+Cluster 502 → Poverty Alleviation
+extreme poor
+poor
+poverty alleviation
+poverty line family
+poverty reduction
+socio-economically disadvantaged families
+
+Cluster 379 → Vision
+eyes
+goggles
+low vision
+vision
+
+Cluster 725 → Facilitation Support
+facilitation support
+technology support
+
+Cluster 64 → Philosophy
+faculties
+indigent
+philosophy
+
+Cluster 884 → Faculty
+faculty
+faculty training
+young faculty
+
+Cluster 110 → Famers
+famers
+washermen
+
+Cluster 148 → Families
+families
+family
+family scheme
+muslim families
+priority family
+
+Cluster 822 → National Family Benefit
+family benefits
+national family benefit
+
+Cluster 181 → Health
+family health
+health
+health and wellness
+health research
+healthcare
+wellness
+
+Cluster 738 → Payment Of Railway Fares
+fare
+payment of railway fares
+
+Cluster 631 → Mechanization
+farm mechanization
+mechanisation
+mechanization
+
+Cluster 686 → Farming Equipment
+farm tools
+farming equipment
+heavy farm equipment
+small farm implements
+
+Cluster 120 → Farmers
+farmer
+farmer group
+farmers
+farmers associations
+farmers group
+farmers interest group
+farmers producer’s organization
+farmers scientist interaction
+farms
+shg farmers
+
+Cluster 194 → Welfare Of Farming Community
+farmer support centers
+farmer welfare
+non-farm sector activities
+welfare of farming community
+
+Cluster 572 → Parent
+father
+mother
+parent
+parents
+
+Cluster 447 → Landless
+fatherless
+landless
+landless farmer
+
+Cluster 324 → Fee Waiver
+fee waiver
+waiver
+
+Cluster 346 → Freeship
+fellowship
+freeship
+
+Cluster 690 → Woman
+female
+ladies
+woman
+women
+
+Cluster 400 → Female Scheme
+female scheme
+mother teresa scheme
+scheme for girls
+
+Cluster 761 → Fertilizers
+fertilizer
+fertilizers
+organic fertilizers
+
+Cluster 910 → Widushi
+ficci
+widushi
+
+Cluster 674 → Fig
+fig
+fig development
+
+Cluster 597 → Freedom Fighter
+fighters
+freedom fighter
+
+Cluster 762 → Filmmaker
+film
+filmmaker
+
+Cluster 72 → Financial Asssitance
+finance
+financial
+financial asisstance
+financial assiatance
+financial assitance
+financial asssitance
+financial gran
+
+Cluster 98 → Protection
+financial protection
+high risk
+protection
+security
+trust
+
+Cluster 213 → Vehicle Loan
+financing facility
+ssi unit loan
+two wheeler loan
+vehicle loan
+
+Cluster 78 → Technology
+fintech
+hi-tech
+information technology
+technologies
+technology
+technology acquisition
+technology translation
+
+Cluster 412 → Shrimp Exports
+fish exports
+shrimp
+shrimp exports
+
+Cluster 642 → Fishery
+fisheries
+fisherman
+fishermen
+fishery
+fishery machinery
+fishing activities
+inland fishing
+
+Cluster 787 → Fixed Deposit
+fixed deposit
+term deposit
+
+Cluster 276 → Wheels
+flats
+goldsmiths
+wheels
+
+Cluster 464 → Storm Water
+flood
+hailstorms
+storm water
+
+Cluster 340 → Sericulture
+floriculture
+sericulture
+
+Cluster 528 → Flower
+flower
+flower development
+flowers
+
+Cluster 660 → Vegetable Vendors
+flower vendors
+fruit vendors
+vegetable vendors
+
+Cluster 176 → Fpo
+fob
+fpc
+fpo
+honey fpo
+
+Cluster 233 → Fodder
+fodder
+fodder block making
+fodder seed
+fodder value addition
+
+Cluster 925 → Fodder Minikits
+fodder minikit
+fodder minikits
+minikits
+
+Cluster 534 → Folding Sticks
+folding sticks
+walking sticks
+
+Cluster 813 → Folk Arts
+folk
+folk artist
+folk arts
+
+Cluster 141 → Food Security
+food assistance
+food bill
+food safety
+food security
+national food security act
+
+Cluster 130 → Food Grains
+food grain
+food grains
+maize
+nutri cereals
+rice
+wheat
+
+Cluster 492 → Food Processing
+food processing
+food processing industries
+processed food
+
+Cluster 905 → Study Abroad
+foreign study
+foreign university
+international education
+study abroad
+
+Cluster 665 → Forest
+forest
+forest department
+tree
+trees
+
+Cluster 462 → France
+france
+germany
+
+Cluster 909 → Free Books
+free book
+free books
+
+Cluster 486 → Free Meal
+free diet
+free food
+free meal
+
+Cluster 351 → Free Distribution Of Inputs
+free distribution of inputs
+input kits
+
+Cluster 209 → Self Education
+free education
+life skill education
+modern education
+self education
+
+Cluster 248 → Free Medicines
+free medical treatment
+free medicines
+free medicines distribution
+free treatment
+
+Cluster 163 → Free Travel
+free passport
+free transportation
+free travel
+free travelling
+
+Cluster 388 → Uniform
+free uniform
+school uniform
+uniform
+uniform assistance
+
+Cluster 526 → French
+french
+official language
+translation
+
+Cluster 759 → Fresher
+fresher
+refreshment
+
+Cluster 848 → Fruit
+fruit
+fruits
+pineapple
+
+Cluster 332 → Funeral Assistance
+funeral
+funeral assistance
+funeral expense
+funeral expenses
+funeral support
+
+Cluster 277 → Unorganised Sector
+furniture sector
+industrial sector
+industries sectors
+organized sector
+service sector
+trading sector
+unorganised sector
+unorganized sectors
+
+Cluster 484 → Gaurav
+gadia lohar
+garo
+gaurav
+ghar
+
+Cluster 251 → Power Connection
+gas connection
+power connection
+
+Cluster 349 → Gate
+gate
+pwd
+
+Cluster 385 → Gene
+gene
+promoter
+
+Cluster 648 → General Category
+general category
+open category
+
+Cluster 552 → Science Stream
+general stream
+science stream
+
+Cluster 493 → Surgery
+general surgery
+surgery
+surgical
+
+Cluster 440 → Generator
+generation
+generator
+
+Cluster 594 → Pharmaceutical
+generic drugs
+pharmaceutical
+pharmacy
+
+Cluster 362 → Genetic Improvement
+genetic improvement
+genetic upgradation
+mutation
+
+Cluster 914 → Geographical Indications
+geographical indications
+
+Cluster 25 → Rajasthan Scheme
+girls scheme rajasthan
+haryana domicile
+haryana scheme
+rajasthan
+rajasthan scheme
+
+Cluster 506 → Hand Gloves
+gloves
+hand gloves
+
+Cluster 157 → Gypsum
+glucometer
+gypsum
+gyti
+
+Cluster 760 → Go Green
+go green
+go-green
+
+Cluster 273 → Maharashtra
+goa
+madrasas
+maharashtra
+maharashtra scheme
+
+Cluster 237 → Goat Supply
+goat
+goat breeding
+goat farming scheme
+goat supply
+goat unit
+
+Cluster 815 → Godown Construction
+godown
+godown construction
+warehouse godowns
+
+Cluster 104 → National Presence
+good citizens
+national health mission
+national presence
+
+Cluster 513 → Nutrition
+good nutrition
+health and nutrition
+nutrition
+nutrition kit
+nutritional items
+nutritional support
+sports nutrition
+supplementary nutrition
+
+Cluster 754 → Gopabandhu
+gopabandhu
+vanbandhu
+
+Cluster 308 → State Government Employees
+government employee
+government employees
+state government employee
+state government employees
+
+Cluster 262 → Industry Training
+government industrial training
+industrial training institutes (itis)
+industry training
+it courses
+
+Cluster 264 → West Bengal Government
+government of west bengal
+west bengal
+west bengal government
+west bengal housing infrastructure development corporation
+
+Cluster 893 → Government Scheme For Minorities
+government scheme for minorities
+minority scheme
+
+Cluster 51 → Secondary School
+government school
+high school
+higher secondary school
+primary school
+public school
+school
+schools
+secondary education
+secondary school
+selected schools
+top class school
+
+Cluster 452 → Gpat
+gpat
+gst
+
+Cluster 270 → Post Graduation
+graduate
+graduation
+post graduate
+post graduation
+post-graduate
+post-graduation
+postgraduation
+
+Cluster 550 → Gramya
+grama jyothi
+grameen
+gramya
+
+Cluster 793 → Group Home
+group
+group home
+
+Cluster 119 → Scheme Information
+guarantee scheme
+scheme information
+the scheme of masses
+
+Cluster 404 → Punjab
+gujarat
+nankana sahib
+punjab
+sikh community
+
+Cluster 350 → Vjnt
+gujcet
+pvtg
+vjnt
+
+Cluster 810 → Guru
+guru
+gurudwara
+
+Cluster 161 → Jal Hauj
+hajong
+jal hauj
+
+Cluster 490 → Handicapped
+handicap
+handicapped
+physically handicapped
+scheme handicapped person
+
+Cluster 723 → Handicrafts
+handicraft
+handicraft artisans
+handicrafts
+
+Cluster 681 → Handloom
+handloom
+powerloom
+
+Cluster 357 → Weavers
+handloom weaver
+handloom weavers
+khadi weavers
+powerloom weavers
+weaver
+weavers
+women weavers
+
+Cluster 585 → Hard Intervention
+hard intervention
+soft intervention
+
+Cluster 339 → Padma Awardees
+haritha mitra awards
+padma awardees
+
+Cluster 798 → Harvesting Tool
+harvesting tool
+harvesting tools
+
+Cluster 589 → Hatchery
+hatchery
+rural hatchery
+
+Cluster 329 → Hazardous Occupation
+hazardous occupation
+occupational diseases
+
+Cluster 888 → Health Checkup
+health check-up
+health checkup
+
+Cluster 356 → Medical Treatment
+health treatment
+medical treatment
+medical treatments
+primary medical treatment
+serious disease treatment
+treatment
+
+Cluster 451 → Transportation
+healthcare transportation
+transport
+transport facility
+transport service
+transport worker
+transportation
+transportation facilities
+urban transport
+
+Cluster 842 → Hearing Impaired
+hearing challenged
+hearing impaired
+hearing impairment
+speech and hearing impaired
+speech impaired
+
+Cluster 645 → Legal Heir
+heir
+legal heir
+legal heirs
+nominated heir
+
+Cluster 208 → Help
+help
+post
+press
+
+Cluster 896 → Hemi Plegic
+hemi plegic
+para plegic
+
+Cluster 682 → Heritage
+heritage
+historical places
+
+Cluster 7 → Rewards
+high reward
+promotion
+promotion of games
+rewards
+
+Cluster 263 → Production
+higher production
+producers
+production
+
+Cluster 662 → Upper Primary
+higher secondary
+upper primary
+
+Cluster 432 → Study
+higher studies
+higher study
+study
+study material
+studying
+
+Cluster 577 → Technical Education
+higher technical
+technical
+technical competence
+technical course
+technical courses
+technical education
+technical institutes
+technical training
+technical university
+
+Cluster 838 → Himalayas
+himalayas
+tibetan
+
+Cluster 398 → Hindi
+hindi
+hindi andolan
+hindu
+sanskrit
+
+Cluster 560 → Satyagrahi
+hindi satyagraha
+sabooj sathi scheme
+satyagrahi
+
+Cluster 865 → Home
+home
+home town
+house
+residence
+
+Cluster 50 → Homestay
+homestay
+homestays
+work from home
+
+Cluster 547 → Horticulture Loan
+horticulture
+horticulture loan
+
+Cluster 344 → Hospital
+hospital
+medical facility
+medical institution
+public and private sector hospitals
+
+Cluster 926 → Hospitalisation
+hospitalisation
+hospitalization
+
+Cluster 252 → Hotel
+hotel
+lodging
+resort
+
+Cluster 315 → Household Tap
+household tap
+tapper
+
+Cluster 571 → Hrt
+hrt-2
+hrt-3
+hrt-4
+
+Cluster 677 → Hsc
+hsc
+hsfdc
+
+Cluster 131 → Icmr
+icar
+icds
+icmr
+
+Cluster 886 → Vehicle Purchase Grant
+ignition grant
+maintenance grant
+vehicle purchase grant
+
+Cluster 391 → Ugc
+igstc
+ugc
+
+Cluster 860 → Iit
+iim
+iit
+
+Cluster 854 → Illness
+illness
+illnesses
+serious illness
+
+Cluster 224 → Immunization
+immunization
+immunization of children
+vaccine manufacturing
+
+Cluster 901 → Import
+import
+import exotic pig
+
+Cluster 659 → Improve The Nutritional Status Of Pregnant
+improve the nutritional status of pregnant
+providing nutritious food to pregnant women and children
+
+Cluster 634 → Incapacitated
+incapacitated
+permanent incapacitation
+
+Cluster 57 → Inclusiveness
+inclusiveness
+social inclusion
+untouchability
+
+Cluster 920 → Income
+income
+increased income
+
+Cluster 536 → Indian Army
+indian air force
+indian army
+indian navy
+
+Cluster 268 → Tribal
+indigenous
+primitive tribal
+tribal
+tribal areas
+tribal culture
+tribal products
+tribal scheme
+tribal welfare
+tribe
+
+Cluster 785 → Indira Gandhi
+indira
+indira gandhi
+
+Cluster 764 → Transgender
+individual
+transgender
+
+Cluster 293 → Pond
+individual farm pond
+pond
+ponds
+
+Cluster 703 → Punjabi Language
+indo-german
+punjabi language
+serb
+urdu
+
+Cluster 416 → Teacher
+inductee teacher
+teacher
+teachers
+teaching
+
+Cluster 671 → Industries
+industrial
+industries
+industry
+large industries
+mega industries
+new industries
+setup industries
+traditional industries
+
+Cluster 445 → Industrial Research
+industrial exposure
+industrial research
+
+Cluster 598 → Infrastructure
+industrial infrastructure
+infrastructure
+infrastructure facilities
+
+Cluster 875 → Industrial Park
+industrial park
+industrial parks
+
+Cluster 338 → Information And Public Relations
+information and public relations
+information unit
+
+Cluster 88 → Infrastructural Support
+infrastructural support
+superannuated
+
+Cluster 567 → Injuries
+injuries
+injury
+
+Cluster 336 → Ism
+inm
+ism
+iteams
+
+Cluster 830 → Innovation
+innovation
+innovative work
+
+Cluster 647 → Integrated Development
+integrated development
+integrated technology
+
+Cluster 605 → Integrated Pest Management
+integrated pest management
+pest management
+
+Cluster 426 → Inter Caste
+inter caste
+inter-caste
+inter-caste marriage
+intra caste
+
+Cluster 516 → State Scheme
+inter-state boundary
+state scheme
+
+Cluster 246 → Interest
+interest
+interest free
+interest subvention
+zero interest
+
+Cluster 11 → Subsidized Rate
+interest rate
+subsidized rams
+subsidized rate
+
+Cluster 715 → Internship
+intern
+interns
+internship
+internship programme
+
+Cluster 774 → International Sports
+international
+international sports
+
+Cluster 803 → International Collaboration
+international collaboration
+national collaboration
+
+Cluster 158 → Sample
+interview
+sample
+survey
+testing
+
+Cluster 613 → Investigator
+investigation
+investigator
+principal investigator
+young investigator
+
+Cluster 174 → Ipr
+ipm
+ipr
+ipr creation mentoring
+ips
+
+Cluster 39 → Solar Irrigation Pumps
+irrigation
+pump
+pump installation
+solar irrigation pumps
+
+Cluster 58 → Wcs
+isss
+ots
+prs
+pwcs
+wcs
+
+Cluster 584 → It
+it
+ites
+
+Cluster 714 → Skills
+it skills
+skill
+skills
+
+Cluster 795 → Jammu And Kashmir
+jammu
+jammu and kashmir
+kashmir
+kashmiri
+
+Cluster 13 → Jee
+jee
+jeevan jyoti
+jhota buggi
+jute
+
+Cluster 620 → Journalist
+journalism
+journalist
+newspaper
+reporter
+
+Cluster 242 → Tour
+journey
+tour
+tour operators
+
+Cluster 318 → Jrf
+jrf
+jsfss
+srf
+
+Cluster 196 → Junior Fellows
+junior
+junior college
+junior fellows
+senior fellows
+
+Cluster 113 → Prasad
+kadaknath
+khet talai
+pahani
+prasad
+sardar patel
+
+Cluster 627 → Kalyan
+kalyan
+kaushal
+laadli beti kalyan
+
+Cluster 203 → Kanyadaan Yojana
+kanya
+kanya abhibhawak
+kanyadaan
+kanyadaan yojana
+kanyadan yojana
+
+Cluster 438 → Maharana Pratap
+kanyashree prakalpa
+maharana pratap
+pratibha
+
+Cluster 200 → Tamil Nadu
+karnataka
+odisha
+sri lanka
+tamil nadu
+
+Cluster 249 → Oil
+kerosene oil
+oil
+oil seeds
+oilseeds
+
+Cluster 802 → Khadi
+khadi
+khadi institution
+khadi societies
+khasi
+
+Cluster 469 → Kisan
+kisan
+kisan credit card
+kisan sahay
+kishori
+pm kisan top up
+
+Cluster 858 → Kith And Kin
+kith and kin
+
+Cluster 197 → Kuy
+kufri chipsona varient
+kuy
+
+Cluster 749 → Laboratory
+lab
+laboratories
+laboratory
+laboratory services
+
+Cluster 307 → Labour
+labor
+labor community
+labor compliance
+labour
+labour intensive unit
+labour scheme
+labour tools
+
+Cluster 698 → Lactating Mothers
+lactating mother
+lactating mothers
+lactating women
+
+Cluster 219 → Land Purchase
+land
+land conversion
+land purchase
+purchase of land
+
+Cluster 16 → Symposia
+latrine
+madarsa
+mansarovar
+symposia
+
+Cluster 863 → Law Graduates
+law graduate
+law graduates
+law students
+
+Cluster 40 → Lawyers
+lawyer
+lawyers
+legal aid
+legal assistance
+
+Cluster 343 → Leadership
+leadership
+management
+
+Cluster 431 → Skill Development Training
+learn skills
+skill developemnt
+skill development
+skill development initiative scheme
+skill development training
+skill education
+skill india programme
+skill training
+training skilling program
+
+Cluster 69 → Rent Assistance
+lease
+rent
+rent assistance
+rental assistance
+
+Cluster 724 → Leather Goods
+leather
+leather goods
+leather industry
+
+Cluster 323 → Leave Travel
+leave travel
+leave travelling concession
+travel
+
+Cluster 75 → Professor
+lecturer
+lecturers
+national professor
+professor
+professors
+
+Cluster 899 → Leprosy Patient
+leprosy
+leprosy patient
+leprosy persons
+
+Cluster 488 → Librarian
+librarian
+librarians
+library
+
+Cluster 137 → Ncc
+lic
+ltc
+ncc
+obc
+sbc
+secc
+upsc
+
+Cluster 173 → Trader
+liverstock
+trader
+traders
+
+Cluster 22 → Locomotor
+locomotor
+locomotor disability
+mobility
+walking device
+
+Cluster 281 → Parks
+logistic park
+parks
+playground
+
+Cluster 923 → Logistics
+logistics
+logistics facilities
+
+Cluster 537 → Short Term
+long term
+short term
+
+Cluster 777 → Low Cost Fartming
+low cost fartming
+
+Cluster 139 → Middle Income Group
+lower income group
+marginalized groups
+middle income group
+
+Cluster 498 → Lpg
+lpg
+lpg connection
+lpg cylinder
+
+Cluster 287 → Nlu
+lwe
+nlu
+wwas
+
+Cluster 105 → M Phil
+m phil
+mmgsy
+
+Cluster 752 → Technology Upgradation
+machine upgradation
+technology upgradation
+
+Cluster 668 → Publicity
+magazine
+publicity
+
+Cluster 328 → Magel Tyala Shettale
+magel tyala shettale
+mana ooru mana pranalika
+
+Cluster 138 → Marble
+magnifiers
+marble
+
+Cluster 508 → Mahila
+mahila
+mamta
+maulvi
+muslim mahila
+
+Cluster 456 → Maintenance Cost
+maintenance
+maintenance cost
+
+Cluster 782 → Makhana Development
+makhana development
+makhana seed distribution
+
+Cluster 814 → Mango Development
+mango development
+papaya development
+
+Cluster 583 → Scavengers
+manual scavengers
+scavenger
+scavengers
+
+Cluster 786 → Manufacture
+manufacture
+manufacturer
+manufacturing
+
+Cluster 672 → Manure
+manure
+organic manure
+
+Cluster 545 → Margin Money Assistance
+margin money
+margin money assistance
+
+Cluster 772 → Seaman
+marine
+seafarer
+seaman
+
+Cluster 883 → Marine Products
+marine food processing
+marine products
+
+Cluster 539 → Market
+market
+market access
+market development
+
+Cluster 916 → Market Committee
+market committee
+market committees
+
+Cluster 282 → Stamp Duty
+marks
+stamp duty
+
+Cluster 780 → Marriage Assistance
+marriage assistance
+marriage grant
+wedding support
+
+Cluster 74 → Sarothi
+maschyajibi
+saree
+sarothi
+taarabandi
+
+Cluster 887 → Pregnancy Care
+maternal health
+pregnancy care
+pregnant women care kit
+
+Cluster 255 → Maternity Benefit
+maternity
+maternity assistance
+maternity benefit
+maternity benefit programme
+maternity benefits
+maternity loan
+
+Cluster 288 → Pre Matric
+matriculation
+pre matric
+pre-matric
+pre-matrics
+
+Cluster 862 → Media
+media
+media persons
+multimedia
+
+Cluster 670 → Medical Equipment
+medical accessories
+medical equipment
+medical manufacturing units
+
+Cluster 555 → Medical Assistance
+medical aid
+medical assistance
+medical help
+medical support
+
+Cluster 386 → Medical Graduate
+medical graduate
+medical student
+post graduate doctor
+
+Cluster 410 → Term Loan
+medium term loan
+term loan
+terms loan
+
+Cluster 17 → Movcdner
+megp
+mmapuy
+mnre
+movcdner
+
+Cluster 626 → Registration Fees
+membership fee
+registration fee
+registration fees
+subscription fee
+
+Cluster 186 → Sanitary Pads
+menstrual hygiene kit
+sanitary napkin
+sanitary pad
+sanitary pads
+
+Cluster 745 → Physical Abuse
+mental abuse
+physical abuse
+sexual abuse
+
+Cluster 518 → Mentally Retarded
+mental retardation
+mentally retarded
+
+Cluster 840 → Mentee Beneficiary Institutes
+mentee beneficiary institutes
+
+Cluster 419 → Merit
+merit
+merit award
+merit cum means
+merit grant
+
+Cluster 477 → Scholarship
+merit scholarship
+post matric scholarship
+scholarship
+scholarship for st
+scholarship for students
+scholarship scheme
+scholarships
+state research scholarship
+
+Cluster 821 → Meritorious Student
+meritorious
+meritorious student
+meritorious students
+
+Cluster 44 → Micro Finance
+micro
+micro credit
+micro credit loan
+micro enterprise
+micro enterprises
+micro finance
+
+Cluster 97 → Mphil
+mig
+mphil
+
+Cluster 331 → Migrant Workers
+migrant
+migrant labourers
+migrant worker
+migrant workers
+migrants
+
+Cluster 510 → Milch Animals
+milch animal
+milch animals
+
+Cluster 280 → Mission
+milk mission
+mission
+sub-mission
+
+Cluster 892 → Millets
+mill
+millet development
+millets
+
+Cluster 180 → Weeding
+mining
+weeding
+
+Cluster 422 → Minorities
+minorities
+minority
+minority community
+minority cummunities
+minority students
+
+Cluster 143 → Missing
+missing
+partial
+spare parts
+
+Cluster 548 → Smartphone
+mobile
+smart phone
+smartphone
+
+Cluster 68 → Religious Places
+monasteries
+priests
+religious
+religious destinations
+religious institutions
+religious places
+
+Cluster 732 → Monetary Relief
+monetary relief
+relief
+
+Cluster 3 → Mukhayamantri
+moosari
+mukhayamantri
+mukhyamantri
+murrah
+
+Cluster 861 → Special Backward Caste
+most backward caste
+special backward caste
+
+Cluster 496 → Tricycle
+motorized tricycle
+tricycle
+tricycles
+
+Cluster 852 → Mpacs
+mpacs
+mppsc
+
+Cluster 551 → Multi Storied Shed
+multi storied shed
+shednet house
+
+Cluster 478 → Municipal
+municipal
+municipal corporation
+municipal council
+
+Cluster 354 → Physiotherapy
+muscular dystrophy
+orthopedically
+physiotherapy
+
+Cluster 727 → Mushroom Production
+mushroom cultivation
+mushroom development
+mushroom kit
+mushroom production
+mushrooms
+
+Cluster 593 → Naco
+naco
+nalkoop
+nari adalat
+
+Cluster 623 → Nagaland
+nagaland
+nagaland government health insurance
+nagaland state
+
+Cluster 779 → Panchayat
+nagar panchayat
+panchayat
+panchayat representative
+
+Cluster 699 → Nano Household
+nano household
+nano unit
+
+Cluster 839 → National Fellow
+national
+national awardee
+national fellow
+
+Cluster 823 → Scheduled Castes
+national scheduled castes finance and development corporation
+schedule castes
+scheduled castes
+scheduled castes (sc)
+
+Cluster 296 → Nda
+nda
+ndksp
+ndri
+nfsa
+
+Cluster 575 → Stipend
+nec stipend
+stipend
+stipend for girls
+stipends
+
+Cluster 274 → Needs
+needs
+ready
+
+Cluster 655 → Neera Technician
+neera technician
+neet
+
+Cluster 321 → Sgst
+net sgst reimbursement
+sgst
+
+Cluster 924 → Ngo
+ngo
+ngos
+
+Cluster 919 → Vidya Nidhi
+nidhi
+vidya nidhi
+
+Cluster 864 → Nift
+nift
+nit
+
+Cluster 753 → Nomadic Tribes
+nomadic
+nomadic tribe
+nomadic tribes
+semi nomadic tribes
+
+Cluster 562 → Nominee
+nominee
+nominees
+
+Cluster 775 → Npv
+npa
+nps
+npv
+
+Cluster 199 → Nri
+nri
+rti
+sfurti
+
+Cluster 250 → Nsfdc
+nse
+nsfdc
+nsic
+nskfdc
+nsnis
+
+Cluster 744 → Nuclear Poly Hedrosis Virus
+nuclear poly hedrosis virus
+
+Cluster 467 → Nursing
+nurseries
+nursing
+nursing course
+
+Cluster 430 → Toys Units
+nursery
+toys units
+
+Cluster 542 → Oci
+oci
+oebc
+oec
+
+Cluster 579 → Oil Palm
+oil palm
+oil palm mill
+palm
+
+Cluster 728 → Open Learning
+open learning
+open university
+
+Cluster 322 → Operators
+operation
+operators
+
+Cluster 619 → Organization
+organization
+organizations
+private organization
+voluntary organisation
+
+Cluster 835 → Orphan Child
+orphan
+orphan child
+orphan children
+orphan student
+
+Cluster 399 → Paramedical
+paramedical
+parampara
+
+Cluster 751 → Parsi Community
+parsi community
+parsi couples
+
+Cluster 166 → Permanent Partial Disability
+partial disability
+partial total disability
+permanent disability
+permanent partial disability
+permanent total disability
+permanently disability
+temporary disability
+
+Cluster 636 → Participation In Cultural Activities
+participation
+participation in cultural activities
+
+Cluster 291 → Patent
+patent
+patent registration
+patents
+principal inventor
+
+Cluster 279 → Paternity
+paternity
+unwed mother
+women and child
+
+Cluster 769 → Patients
+patient
+patients
+
+Cluster 418 → Toilet Assistance
+pay and use toilets
+toilet
+toilet assistance
+toilet construction loan
+
+Cluster 927 → Pdf
+pdf
+
+Cluster 437 → Pedagogical Skills
+pedagogical skills
+pedagogy modules
+
+Cluster 230 → Persons With Diablities
+persons with diablities
+visible deformities grade-ii
+
+Cluster 116 → Professional Courses
+pg courses
+post-matric courses
+professional course
+professional courses
+short term bridge courses
+
+Cluster 739 → Ph.D.
+ph d
+ph.d.
+
+Cluster 716 → Photojournalism
+photography
+photojournalism
+
+Cluster 643 → Physical Fitness
+physical education
+physical fitness
+
+Cluster 611 → Pig Semen
+pig semen
+semen
+
+Cluster 912 → Pilgrims
+pilgrim
+pilgrimage
+pilgrims
+
+Cluster 63 → Pipes
+pipe line
+pipes
+stall
+
+Cluster 100 → Placement
+placement
+relative
+
+Cluster 894 → Planting Material
+planting
+planting material
+quality planting material
+
+Cluster 533 → Polythene Mulch Technology
+plastic mulching
+polythene mulch technology
+
+Cluster 258 → Walk In Tunnel
+plastic tunnel
+study tour of atal tunnel
+walk in tunnel
+
+Cluster 720 → Plot Development
+plot development
+plots
+
+Cluster 127 → Yatra
+pm-yasasvi
+tirth yatra
+tirtha yatra
+yatra
+yatra pass
+
+Cluster 781 → Pocra
+pocra
+poshan
+
+Cluster 776 → Policy
+policy
+public policy
+
+Cluster 650 → Poly House
+poly house
+poly houses
+
+Cluster 494 → Polytechnics
+polytechnic
+polytechnic courses
+polytechnics
+
+Cluster 657 → Pork Export
+pork export
+pork production
+
+Cluster 876 → Post Harvest
+post harvest
+post harvesting technology
+post-harvest
+post-harvest management
+
+Cluster 788 → Post Matric
+post matric
+post-matric
+post-matrics
+postmatric
+
+Cluster 833 → Post Metric
+post metric
+
+Cluster 719 → Senior Secondary Education
+post-senior secondary
+senior secondary education
+senior secondary school
+
+Cluster 808 → Postgraduate
+postgraduate
+postgraduates
+
+Cluster 485 → Pottery
+pottery
+pottery worker
+
+Cluster 183 → Practice
+practice
+preparation
+
+Cluster 117 → Ssc
+pre-ssc
+ssc
+sslc examination
+
+Cluster 726 → Pregnant Women
+pregnancy
+pregnant
+pregnant mothers
+pregnant woman
+pregnant women
+pregnant women and new mothers
+pregnat women
+
+Cluster 678 → Primary Healthcare Services
+primary health infrastructure
+primary healthcare services
+
+Cluster 476 → Public Sector
+private sector
+private sector organization
+public administration
+public sector
+public sector organization
+
+Cluster 468 → Processing Lab
+processing lab
+processing units
+
+Cluster 653 → Productivity
+productivity
+youth productivity
+
+Cluster 624 → Professional
+professional
+professional education
+young professional
+
+Cluster 868 → Professional Programmes
+professional programmes
+programme
+technical programmes
+
+Cluster 132 → Projects
+project
+project training
+projects
+turnkey projects
+
+Cluster 711 → Registration
+promoting registration
+registration
+trade mark registration
+
+Cluster 743 → Prosthetic
+prosthetic
+prosthetic aid
+
+Cluster 133 → Safely Equipment
+protective gear
+safely equipment
+safety equipment
+sanedo equipment
+sanity equipment
+
+Cluster 463 → Publication
+publication
+publish
+publisher
+
+Cluster 366 → Puducherry
+pudecherry
+puducherry
+purohit
+
+Cluster 341 → Pulses
+pulse
+pulses
+pulses ispom
+pulses production
+
+Cluster 33 → Trades
+purchase
+sales
+trade
+trades
+
+Cluster 461 → Tool Kits
+purchase of tools
+tool kit
+tool kits
+tool purchase
+
+Cluster 661 → Quality Improvement
+quality
+quality development
+quality enhancement
+quality improvement
+
+Cluster 890 → Train Travel
+railway
+train travel
+
+Cluster 866 → Rain Coat
+rain coat
+rainfed
+
+Cluster 596 → Raman
+raman
+ramanujan
+
+Cluster 603 → Rank
+rank
+top rank
+
+Cluster 232 → Raw Material
+raw material
+sports materials
+
+Cluster 574 → Remarriage
+re-marriage
+remarriage
+remarriage assistance
+
+Cluster 153 → Refund
+rebate
+refund
+subscriptions refund
+
+Cluster 395 → Rehabilitation
+rehabilitate
+rehabilitation
+rehabilitation allowance
+rehabilitation services
+socio-economic rehabilitation
+
+Cluster 235 → Rehabilitation Of Sick Enterprise
+rehabilitation of sick enterprise
+sick unit
+
+Cluster 46 → Reintegration
+reintegration
+rejuvenation
+repatriation
+revival
+
+Cluster 256 → Repair Of House
+renovation
+repair
+repair of house
+
+Cluster 382 → Scientist
+research scientist
+scientist
+scientists
+young researcher
+young scientist
+
+Cluster 638 → Scopus
+research scolars
+scopus
+
+Cluster 756 → Research Stations Visit
+research station
+research stations visit
+
+Cluster 52 → Workshop
+residential workshop
+showroom
+studio
+workshop
+
+Cluster 695 → Resources For School
+resource
+resources for school
+
+Cluster 227 → Response Vehicle
+response
+response vehicle
+
+Cluster 850 → Shop
+retail outlets
+sanitary mart
+shop
+
+Cluster 651 → Retirement
+retired
+retirement
+retirement income
+
+Cluster 149 → Rhizobium
+rhizobium
+vridvashram
+
+Cluster 721 → Rhode Island Red (Rir)
+rhode island red
+rhode island red (rir)
+
+Cluster 355 → Safety
+road safety
+safety
+vigilance
+
+Cluster 454 → Samagra
+rojgaar samgam
+samagra
+samarthy
+samriddhi
+samridhi
+shilp sampada
+
+Cluster 29 → Solar
+rooftop solar
+solar
+solar energy
+solar energy gadgets
+solar grid
+solar lantern
+solar light
+solar plant
+solar power generation
+solar power unit
+solar rooftop
+solar science
+solar units
+
+Cluster 618 → Tuber Crops
+root and tuber crops
+tuber crops
+
+Cluster 836 → Rubber Plantation
+rubber
+rubber plantation
+
+Cluster 644 → Rural
+rural
+rural area
+rural development
+rural employment
+rural entrepreneur
+rural household
+
+Cluster 185 → Saur Swarojgar
+sabla
+saur swarojgar
+swarnajayanti
+sweekruti
+
+Cluster 656 → Safai Karamchari
+safai karamchari
+safai karamcharis
+safai karmachari
+sahariya tribe
+sishu saathi
+
+Cluster 750 → Safety Shoes
+safety shoes
+shoes
+
+Cluster 147 → Sainik School
+sai
+sainik
+sainik school
+sainik school imphal
+
+Cluster 730 → Saksham
+saksham
+saksham yuva
+
+Cluster 475 → Salt Workers
+salt
+salt industry
+salt labourers
+salt workers
+
+Cluster 691 → Samuhik Vivah
+samuhik vivah
+vivah
+
+Cluster 433 → Sanitation
+sanitation
+sanitation worker
+sanitation workers
+water and sanitation
+
+Cluster 783 → Sashaktikaran
+sashaktikaran
+sashaktikaran yojana
+
+Cluster 629 → Saving
+saving
+savings
+
+Cluster 367 → Sc/St
+sc
+sc/st
+sccs
+st
+
+Cluster 693 → Scheduled Caste
+schedule caste
+scheduled cast
+scheduled caste
+
+Cluster 790 → Scheduled Tribes
+schedule tribe
+scheduled tribe
+scheduled tribes
+scheduled tribes (st)
+
+Cluster 680 → Tribal Students
+scheduled tribe students
+tribal student
+tribal students
+
+Cluster 582 → Scientific Excellence
+scientific excellence
+sports excellence
+
+Cluster 879 → Scroll
+scroll
+
+Cluster 389 → Self Employment
+self employed professional
+self employment
+self-employed
+self-employment
+self-employment equipment
+
+Cluster 359 → Self Help Group
+self help group
+self help group (shg)
+self help groups
+self-help group
+self-help groups
+
+Cluster 286 → Self Reliant
+self-reliant
+selfemployed
+
+Cluster 921 → Semi Conduct
+semi-conduct
+
+Cluster 541 → Seminar
+seminar
+seminars
+
+Cluster 512 → Senior Citizens
+senior citizen
+senior citizens
+women senior citizen
+
+Cluster 667 → Sewerage
+septage management
+sewage treatment
+sewerage
+
+Cluster 434 → Shaadi
+shaadi
+shagun
+
+Cluster 376 → Shg
+shg
+shg women
+shgs
+
+Cluster 741 → Shramyogi
+shramik
+shramyogi
+
+Cluster 587 → Silicosis Disease
+silicosis
+silicosis disease
+silicosis diseases
+silicosis victim
+
+Cluster 446 → Yarn
+silk
+weaving
+yarn
+
+Cluster 423 → Sip
+sip
+watershed
+
+Cluster 198 → Specialized Skill Development Centers
+skill up-gradation centers
+skilled workforce
+skilled youth program
+specialized skill development centers
+up-skilling opportunities
+
+Cluster 546 → Skill Upgradation
+skill upgradation
+skill upgrade
+skill-upgradation
+
+Cluster 530 → Technologists
+skilled technocrats
+technologist
+technologists
+
+Cluster 856 → Sme
+smam
+sme
+sme exchange
+
+Cluster 731 → Soil Health Card
+smart health card
+soil health card
+
+Cluster 872 → Social Service
+social
+social activist
+social justice
+social service
+social worker
+
+Cluster 109 → Social Science
+social defence
+social science
+social studies
+
+Cluster 178 → Societies
+societies
+society
+socities
+
+Cluster 290 → Soil Testing
+soil
+soil health
+soil testing
+soil testing lab
+
+Cluster 701 → Wire Fencing
+solar fencing
+wire fencing
+
+Cluster 372 → Waste
+solid waste management
+waste
+waste pickers
+
+Cluster 734 → Special Schools
+special school
+special schools
+
+Cluster 770 → Spectacle
+spectacle
+spectacle purchase
+spectacles
+
+Cluster 829 → Spice
+spice
+spice farming
+spice seed
+spices
+
+Cluster 396 → Sponsorship
+sponsored research work
+sponsorship
+
+Cluster 466 → Stage Iv
+stage iii
+stage iv
+
+Cluster 794 → Startup
+startup
+startup/project
+startups
+
+Cluster 708 → State Award
+state
+state award
+state awardee
+
+Cluster 630 → Tax
+state goods and services tax
+tax
+
+Cluster 414 → Stay
+stay
+stay animals
+
+Cluster 683 → Strawberry Cultivation
+strawberry cultivation
+strawberry development
+
+Cluster 844 → Street Vendor
+street vendor
+street vendors
+vendor
+
+Cluster 87 → Sudakshya
+sudakshya
+sudama
+swasthya bima
+
+Cluster 306 → Sugar Co Operatives
+sugar
+sugar co-operatives
+sugar co-operatives factories
+
+Cluster 791 → Sugarcane Farming
+sugarcane
+sugarcane farming
+
+Cluster 849 → Sustainable Development
+sustainability
+sustainable development
+
+Cluster 292 → Swami Vivekananda
+swami vivekananda
+vidya niketan
+
+Cluster 881 → Swavalamban
+swavalamban
+yuva swavalamban
+
+Cluster 641 → Tailor
+tailor
+tailoring training
+
+Cluster 707 → Talent
+talent
+talent search
+young talent
+
+Cluster 600 → Tare
+tare
+taruni
+
+Cluster 171 → Tetra
+tasp
+tetra
+tetra plegic
+
+Cluster 561 → Tb
+tb
+tuberculosis
+
+Cluster 845 → Tea Development
+tea
+tea development
+tea grower
+
+Cluster 922 → Teerth Darshan
+teerth darshan
+tirtha darshan
+
+Cluster 59 → Telecom In Remote Areas
+telecom equipments
+telecom in remote areas
+telecom in rural
+telecommunication
+telephone advice
+
+Cluster 713 → Television
+television
+tv
+
+Cluster 685 → Textile Industry
+textile
+textile crop
+textile industry
+textile sector
+
+Cluster 610 → Theatres
+theatre
+theatres
+
+Cluster 891 → Three Year Nurturing
+three-year nurturing
+
+Cluster 705 → Thrust Sector
+thrust manufacturing sector
+thrust sector
+thrust sectors
+
+Cluster 828 → Tools
+tool
+tools
+work tool
+working tools
+
+Cluster 265 → Tourism
+tourism
+tourism promotion
+tourism units
+tourist
+
+Cluster 664 → Traditions
+tradition
+traditions
+
+Cluster 877 → Trichoderma
+trichoderma
+trichogramma
+
+Cluster 363 → Tube Well
+tube well
+tubewell
+
+Cluster 602 → Umbrella
+umbrella
+umbrella scheme
+
+Cluster 609 → Unclean Occupation
+unclean
+unclean occupation
+
+Cluster 898 → Undergraduate
+undergraduate
+undergraduate student
+
+Cluster 809 → Unmarried
+unmarried
+unmarried mother
+unmarried women
+
+Cluster 187 → Unnati
+unnati
+unnayan
+
+Cluster 633 → Unorganized Worker
+unorganised worker
+unorganised workers
+unorganized worker
+unorganized workers
+
+Cluster 595 → Unregistered Laborer
+unregistered laborer
+unregistered worker
+
+Cluster 164 → Urban
+urban
+urban areas
+urban development
+urban haat
+urban local body
+
+Cluster 902 → Vajra
+vaibhav
+vajpayee
+vajra
+
+Cluster 443 → Vegetable Production
+vegetable
+vegetable cultivation
+vegetable grower
+vegetable processing
+vegetable production
+vegetables
+
+Cluster 311 → Veteran
+veteran
+vtc
+
+Cluster 427 → Vky
+vikas
+vky
+
+Cluster 495 → Vimukta Jatis
+vimukat jatis
+vimukta jati
+vimukta jatis
+
+Cluster 704 → Vimukta Jati And Nomadic Tribes
+vimukta jati and nomadic tribes
+vimukta jati nomadic tribes
+vimukta jatis and nomadic tribes
+
+Cluster 903 → Visa
+visa
+
+Cluster 481 → Vishwakarma Communities
+vishwakarma communities
+viswakarma community
+
+Cluster 179 → Visiting
+visit
+visiting
+visiting professorship
+
+Cluster 590 → Vocational
+vocational
+vocational centres
+vocational courses
+vocational education
+vocational training
+
+Cluster 652 → Vulnerable Groups
+vulnerable groups
+vulnerable persons
+
+Cluster 535 → Waqf Institutions
+waqf boards
+waqf institutions
+waqf property
+
+Cluster 831 → World War
+war
+world war
+world war-ii
+
+Cluster 520 → Ward
+ward
+wards
+
+Cluster 378 → Water Management
+water conservation
+water harvesting
+water management
+water resources
+water shortage
+water supply
+
+Cluster 504 → Wise
+wise
+wiser
+
+Cluster 45 → Working Women
+woman entrepreneur
+woman worker
+women entrepreneurship
+working women
+
+Cluster 607 → Woman Scientist
+woman researcher
+woman scientist
+women scientist
+
+Cluster 800 → Women Health
+women health
+women wellness
+
+Cluster 222 → Zero Defect Zero Effect
+zero defect zero effect
+zero ticket
+
